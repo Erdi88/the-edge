@@ -8,7 +8,7 @@ Use Python 3.10 or newer. Run `python3 collect.py` to collect an edition, then o
 
 ## Manual updates
 
-Run `python3 collect.py`. A second run on the same Oslo date leaves that edition untouched. Run `python3 collect.py --force` to refresh it. If fewer than eight usable fresh stories remain across four categories, the command exits with an error and leaves the previous edition as the homepage. The displayed edition date and update time always come from that edition.
+Run `python3 collect.py`. A second run on the same Oslo date leaves that edition untouched. `--force` is available for a deliberate same-day repair. If fewer than eight usable fresh stories remain across four categories, the command exits with an error and leaves the previous edition as the homepage. The displayed edition date and update time always come from that edition.
 
 ## GitHub Pages
 
@@ -16,7 +16,11 @@ Create a public GitHub repository, push this folder to its `main` branch, then i
 
 ## Schedule and archive
 
-GitHub Actions runs at 04:30 and 05:30 UTC. The collector skips the slot before 06:00 in Norway, producing an edition around 06:30 Oslo time in both daylight saving and standard time. GitHub may delay scheduled jobs. A later run on the same Oslo date skips an existing edition. Every successful update commits `editions/YYYY-MM-DD.json` and `editions/YYYY-MM-DD.html` alongside the homepage; old editions stay in Git and remain linked from the homepage. Failed feeds are ignored individually. If the whole update is too thin, the workflow fails and the last successful page stays online.
+GitHub Actions runs at 04:30, 05:30, 06:30 and 07:30 UTC. These provide attempts around 06:30, 07:30 and 08:30 Oslo time across daylight saving changes; the early winter slot skips and the late summer slot is an extra fallback. GitHub may delay scheduled jobs. A later run on the same Oslo date skips collection when an edition already exists. Every successful update commits `editions/YYYY-MM-DD.json` and `editions/YYYY-MM-DD.html` alongside the homepage; old editions stay in Git and remain linked from the homepage. Failed feeds are ignored individually. If the whole update is too thin, the workflow fails and the last successful page stays online.
+
+## Automatic recovery
+
+Each run tests the collector before updating or deploying. New output is staged and validated before publication; a file replacement error rolls back files already replaced. Runs are serialized, so retries cannot overwrite each other. The workflow checks the packaged archive and compares the deployed homepage with the intended edition, retrying briefly while GitHub Pages propagates. A failed collection or deployment check makes the Actions run fail; the next scheduled attempt retries. GitHub's normal Actions failure notifications are sufficient. Run `python3 -m unittest discover -s tests -v` and `python3 verify.py` for offline checks.
 
 ## Windows Desktop shortcut
 
@@ -28,4 +32,4 @@ Edit `sources.json` to add or remove RSS/Atom sources. Each entry needs a source
 
 ## Troubleshooting
 
-Check **Actions → Daily edition → latest run → Collect and render** for failed feeds or a thin edition. A single bad feed is tolerated. Check that GitHub Pages is set to **GitHub Actions** if deployment fails. GitHub disables scheduled workflows after prolonged repository inactivity; re-enable the workflow in the Actions tab. If the page shows an older date, the last attempt did not meet the freshness threshold; check the run log and use **Run workflow** after fixing the source. You can use `python3 collect.py --force` locally to investigate, then commit the resulting files.
+Check **Actions → Daily edition → latest run** for failed feeds, a thin edition, or a deployment mismatch. A single bad feed is tolerated; the later morning runs retry a failed collection. Check that GitHub Pages is set to **GitHub Actions** if deployment fails. GitHub disables scheduled workflows after prolonged repository inactivity; re-enable the workflow in the Actions tab. If the page shows an older date after the morning attempts, check the failed run and use **Run workflow** after fixing the source. Use `python3 collect.py --force` only when intentionally repairing today's edition.

@@ -1,15 +1,31 @@
 name: Daily edition
 on:
   schedule:
-    # 06:30 Oslo: 04:30 UTC in summer, 05:30 UTC in winter.
-    - cron: '30 4,5 * * *'
+    # Oslo morning: 06:30, 07:30, 08:30 across daylight saving changes.
+    # The early winter slot skips; a late summer slot is an extra fallback.
+    - cron: '30 4,5,6,7 * * *'
   workflow_dispatch:
   push:
     branches: [main]
 permissions:
   contents: read
+concurrency:
+  group: daily-edition-main
+  cancel-in-progress: false
 jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run offline tests
+        run: python -m unittest discover -s tests -v
+      - name: Verify committed website
+        run: python verify.py
   update:
+    needs: test
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
     permissions:
@@ -23,6 +39,8 @@ jobs:
           python-version: '3.12'
       - name: Collect and render
         run: python collect.py ${{ github.event_name == 'schedule' && '--scheduled' || '' }}
+      - name: Verify generated edition
+        run: python verify.py
       - name: Commit new edition
         run: |
           git add index.html editions/
@@ -35,8 +53,8 @@ jobs:
           git commit -m "Publish daily edition"
           git push
   deploy:
-    needs: update
-    if: always() && (needs.update.result == 'success' || needs.update.result == 'skipped')
+    needs: [test, update]
+    if: always() && needs.test.result == 'success' && (needs.update.result == 'success' || needs.update.result == 'skipped')
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -57,3 +75,5 @@ jobs:
           path: _site
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify public website
+        run: python verify.py --root _site --live "${{ steps.deployment.outputs.page_url }}"
