@@ -1,0 +1,12 @@
+[
+  {"name":"Statnett","url":"https://www.statnett.no/rss","category":"Energy & Power Markets"},
+  {"name":"pv magazine","url":"https://www.pv-magazine.com/feed/","category":"Energy & Power Markets"},
+  {"name":"Hacker News","url":"https://hnrss.org/frontpage","category":"AI & Technology"},
+  {"name":"MIT Technology Review","url":"https://www.technologyreview.com/feed/","category":"AI & Technology"},
+  {"name":"Ars Technica","url":"https://feeds.arstechnica.com/arstechnica/index","category":"AI & Technology"},
+  {"name":"TechCrunch","url":"https://techcrunch.com/feed/","category":"Business & Startups"},
+  {"name":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml","category":"Finance & Economics"},
+  {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","category":"Finance & Economics"},
+  {"name":"ScienceDaily","url":"https://www.sciencedaily.com/rss/top/science.xml","category":"Science & Learning"},
+  {"name":"arXiv AI","url":"https://export.arxiv.org/rss/cs.AI","category":"Science & Learning"}
+]

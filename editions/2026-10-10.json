@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-10",
+  "updated_at": "2026-10-10T07:04:20+00:00",
+  "stories": [
+    {
+      "id": "d40015a4fa40df11",
+      "title": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence",
+      "description": "The battery creates flexibility. The intelligence behind it determines how much of that flexibility the grid can harness. The next clean energy benchmark for India, therefore, might not just be a new number of gigawatts. It might be the ability to get the maximum out of every gigawatt. The post Beyond gigawatts: Why…",
+      "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-indias-clean-energy-future-depends-on-storage-intelligence",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-10T06:30:00+00:00"
+    },
+    {
+      "id": "a6af00d16130be58",
+      "title": "The shape of PPAs is changing – from volume to value",
+      "description": "Australia’s renewable energy market is entering a new phase where the value of electricity is increasingly determined not by energy alone, but by the ability to deliver energy when and where it is needed. The post The shape of PPAs is changing – from volume to value appeared first on pv magazine Global.",
+      "url": "https://www.pv-magazine.com/2026/10/10/the-shape-of-ppas-is-changing-from-volume-to-value-are-you-positioned-to-capture-the-premium-in-emerging-nem-value-pools",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-10T06:00:00+00:00"
+    },
+    {
+      "id": "0c1c0b39505178a3",
+      "title": "AI coding agents generate more code, but not more software",
+      "description": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-09T19:43:50+00:00"
+    },
+    {
+      "id": "83fd479413834064",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI…",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-09T09:00:00+00:00"
+    },
+    {
+      "id": "ce326de05c4091b0",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-10T03:10:06+00:00"
+    },
+    {
+      "id": "dd7d78b72787c1ea",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-09T21:41:29+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "ccc8cfcec63655ab",
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "description": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-09T14:36:35+00:00"
+    },
+    {
+      "id": "94facf81bc4dc241",
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "description": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-07T23:10:13+00:00"
+    },
+    {
+      "id": "c492ffc183b21afa",
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "description": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown protist collected from a freshwater pond at Oxford University. To their surprise, the organism uses…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-08T13:31:39+00:00"
+    },
+    {
+      "id": "d12a24b9d6204e97",
+      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+      "description": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million years ago, supporting evidence that the species appeared in southern Africa roughly 200,000 years…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-08T12:47:46+00:00"
+    },
+    {
+      "id": "93c31b5defc3d49a",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve…",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-08T09:00:00+00:00"
+    },
+    {
+      "id": "97568862a3d333c3",
+      "title": "Poly pricing and potential expansion",
+      "description": "The United States has made significant changes to trade and energy policy in 2026. The enforcement of these policies and potential further changes on the horizon could reshape the solar market yet again. Jesse Pichel and Lev Seleznov of Roth Capital examine the potential impacts. The post Poly pricing and potential…",
+      "url": "https://www.pv-magazine.com/2026/10/09/poly-pricing-and-potential-expansion",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-09T16:00:00+00:00"
+    }
+  ]
+}
