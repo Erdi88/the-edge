@@ -73,8 +73,14 @@ def parse_date(value: str) -> datetime | None:
 
 
 def canonical_url(url: str) -> str:
-    bits = urlsplit(url.strip())
-    if bits.scheme not in ("http", "https") or not bits.netloc:
+    if any(char.isspace() for char in url):
+        return ""
+    try:
+        bits = urlsplit(url.strip())
+        if bits.scheme not in ("http", "https") or not bits.hostname:
+            return ""
+        bits.port  # Reject malformed ports.
+    except ValueError:
         return ""
     query = urlencode([(k, v) for k, v in parse_qsl(bits.query) if not k.lower().startswith("utm_") and k.lower() not in ("fbclid", "gclid")])
     return urlunsplit((bits.scheme.lower(), bits.netloc.lower(), bits.path.rstrip("/") or "/", query, ""))

@@ -84,6 +84,11 @@ class DailyTests(unittest.TestCase):
         verify.verify_local(self.root)
         self.assertEqual(len(list((self.root / "editions").glob("*.json"))), 1)
 
+    def test_invalid_article_urls_are_rejected(self):
+        for url in ("ftp://example.com/story", "https://bad host/story", "https://example.com:bad/story", "https:///missing-host"):
+            self.assertEqual(collect.canonical_url(url), "")
+        self.assertEqual(collect.canonical_url("https://example.com/story?utm_source=feed"), "https://example.com/story")
+
     def test_second_run_skips_without_fetching(self):
         self.assertEqual(self.run_daily(), 0)
         before = self.snapshot()
