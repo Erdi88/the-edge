@@ -4,7 +4,7 @@ A small daily intelligence reader. Python collects dated headlines, source excer
 
 ## Run locally
 
-Use Python 3.10 or newer. Run `python3 collect.py` to collect an edition, then open `index.html` in a browser. For a local HTTP preview, run `python3 -m http.server 8000` and visit `http://localhost:8000`. The page itself needs no server; a web connection is needed only for the optional Google Fonts.
+Use Python 3.10 or newer. Run `python3 collect.py` to collect an edition, then open `index.html` in a browser. For a local HTTP preview, run `python3 -m http.server 8000` and visit `http://localhost:8000`. The page itself needs no server; a web connection is needed for the optional Google Fonts and ChatGPT handoff.
 
 ## Manual updates
 
@@ -21,6 +21,12 @@ GitHub Actions runs at 04:30, 05:30, 06:30 and 07:30 UTC. These provide attempts
 ## Automatic recovery
 
 Each run tests the collector before updating or deploying. New output is staged and validated before publication; a file replacement error rolls back files already replaced. Runs are serialized, so retries cannot overwrite each other. The workflow checks the packaged archive and compares the deployed homepage with the intended edition, retrying briefly while GitHub Pages propagates. A failed collection or deployment check makes the Actions run fail; the next scheduled attempt retries. GitHub's normal Actions failure notifications are sufficient. Run `python3 -m unittest discover -s tests -v` and `python3 verify.py` for offline checks.
+
+## Optional Learn Mode
+
+Each card keeps the original article link prominent. Select **Test understanding** to write a short answer beneath a story; the section starts collapsed. Answers save automatically in this browser's localStorage under the article ID, including on archived pages. They are never committed or sent to GitHub. If browser storage is blocked, reading still works and the page says the answer will not persist.
+
+**Discuss with ChatGPT** copies a prompt containing the article link, publisher, available source excerpt, and your answer, then opens ChatGPT in a new tab. Paste the prompt there. If clipboard access is blocked, the page shows a selectable prompt and a manual copy button. This uses your own ChatGPT session and no API key; The Edge does not send your answer anywhere unless you choose to paste it.
 
 ## Windows Desktop shortcut
 

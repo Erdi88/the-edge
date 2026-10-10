@@ -50,6 +50,33 @@ def plain(value: str | None) -> str:
     return re.sub(r"\s+", " ", "".join(parser.parts)).strip()
 
 
+FALLBACK_DESCRIPTION = "Open the original article for the full report."
+
+
+def clean_description(value: str | None) -> str:
+    """Keep only complete sentences from the supplied feed excerpt."""
+    excerpt = plain(value)
+    excerpt = re.sub(
+        r"\s*(?:The post|This post)\s+.{0,240}?\s+appeared first on\s+.{1,120}?[.!?]?\s*$",
+        "", excerpt, flags=re.IGNORECASE,
+    ).strip()
+    excerpt = re.sub(r"(?:\s*(?:\.{3}|…|\[\.\.\.\]))+$", "", excerpt).strip()
+    boundaries = [match.end() for match in re.finditer(r'[.!?](?:["”’])?(?=\s|$)', excerpt)]
+    complete = []
+    previous = 0
+    for end in boundaries:
+        # A short fragment is usually an abbreviation, not a sentence.
+        if end - previous < 25:
+            continue
+        if end > 360:
+            break
+        complete.append(end)
+        previous = end
+        if len(complete) == 3:
+            break
+    return excerpt[:complete[-1]].strip() if complete else FALLBACK_DESCRIPTION
+
+
 def child_text(node: ET.Element, name: str) -> str:
     for child in node:
         if child.tag.rsplit("}", 1)[-1] == name:
@@ -100,7 +127,8 @@ def collect_source(source: dict, now: datetime) -> list[dict]:
     result = []
     for item in items:
         title = plain(child_text(item, "title"))
-        description = plain(child_text(item, "description") or child_text(item, "summary"))
+        raw_description = child_text(item, "description") or child_text(item, "summary")
+        description = plain(raw_description)
         if description.startswith("Article URL:") or description.startswith("Comments URL:"):
             continue
         link = child_text(item, "link")
@@ -111,17 +139,14 @@ def collect_source(source: dict, now: datetime) -> list[dict]:
                     break
         url = canonical_url(link)
         published = parse_date(child_text(item, "pubDate") or child_text(item, "published") or child_text(item, "date") or child_text(item, "updated"))
-        if not title or not description or not url or not published:
+        if not title or not url or not published:
             continue
         if not (now - timedelta(days=4) <= published <= now + timedelta(hours=2)):
             continue
-        # A complete feed sentence is preferable to an invented summary.
         if len(description) > 320:
             if source["name"] == "TechCrunch":
                 continue  # Its RSS terms require the feed text to remain unmodified.
-            description = description[:320].rsplit(" ", 1)[0] + "…"
-        if len(description) < 35:
-            continue
+        description = clean_description(raw_description)
         key = hashlib.sha256(url.encode()).hexdigest()[:16]
         result.append({"id": key, "title": title, "description": description, "url": url,
                        "source": source["name"], "category": source["category"],
@@ -201,11 +226,14 @@ def render(edition: dict, archive: list[dict], depth: int = 0) -> str:
     for number, story in enumerate(edition["stories"], 1):
         category = story["category"]
         signal = '<span class="signal">Source item · commercial signal</span>' if category == "Opportunities" else ""
-        cards.append(f'''<article class="story" data-category="{escape(category)}">
+        excerpt_label = '<span class="excerpt-label">Source excerpt</span>' if story['description'] != FALLBACK_DESCRIPTION else ''
+        cards.append(f'''<article class="story" data-category="{escape(category)}" data-article-id="{escape(story['id'])}">
           <div class="story-top"><span class="number">{number:02}</span><span class="pill">{escape(category)}</span>{signal}</div>
           <h2><a href="{escape(story['url'])}" target="_blank" rel="noopener noreferrer">{escape(story['title'])}</a></h2>
+          <div class="meta"><span>{escape(story['source'])}</span><span aria-hidden="true">·</span><time datetime="{escape(story['published_at'])}">{escape(story['published_at'][:10])}</time></div>
+          {excerpt_label}
           <p class="description">{escape(story['description'])}</p>
-          <div class="meta"><span>{escape(story['source'])}</span><span aria-hidden="true">·</span><time datetime="{escape(story['published_at'])}">{escape(story['published_at'][:10])}</time><a href="{escape(story['url'])}" target="_blank" rel="noopener noreferrer">Read original ↗</a></div>
+          <a class="read-link" href="{escape(story['url'])}" target="_blank" rel="noopener noreferrer">Read article ↗</a>
         </article>''')
     options = ''.join(f'<button class="filter" type="button" data-filter="{escape(category)}">{escape(category)}</button>' for category in CATEGORIES)
     archive_links = ''.join(f'<a href="{prefix}editions/{escape(item["date"])}.html">{escape(item["date"])}</a>' for item in archive if item.get("date") != edition["date"])
