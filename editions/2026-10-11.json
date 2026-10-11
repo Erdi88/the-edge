@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-11",
+  "updated_at": "2026-10-11T10:57:26+00:00",
+  "stories": [
+    {
+      "id": "623a70bd42255981",
+      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
+      "description": "A study based on 88,000 consumer units participating in subscription-based solar generation schemes in Brazil has identified a 17% average monthly payment delinquency rate and 4% monthly customer churn.",
+      "url": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-10T09:30:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "293117f506c4093f",
+      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
+      "description": "Austria's final solar subsidy round of the year attracted 43,300 applications in its first 10 minutes, far exceeding demand in the previous round. The government is now preparing to overhaul the scheme in 2027, shifting its focus from PV installations to battery storage and smart energy management systems.",
+      "url": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-10T09:00:00+00:00"
+    },
+    {
+      "id": "c9f8263218d16e77",
+      "title": "Building a safer path to autonomous industrial AI",
+      "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-08T08:17:32+00:00"
+    },
+    {
+      "id": "22c3579861187b29",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "description": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-09T22:04:07+00:00"
+    },
+    {
+      "id": "498030eadd312a22",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-10T19:50:00+00:00"
+    },
+    {
+      "id": "8ae1f35825243b10",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions.",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-10T15:00:00+00:00"
+    },
+    {
+      "id": "c82f6c029e0dea73",
+      "title": "The wildlife winners set to appear on your banknotes revealed",
+      "description": "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-07T23:01:30+00:00"
+    },
+    {
+      "id": "26642edca61eefe9",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-10T14:24:14+00:00"
+    },
+    {
+      "id": "6186b770b69f113f",
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "description": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoiding hidden problems that make ignition harder.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-10T18:57:27+00:00"
+    },
+    {
+      "id": "9670e2e48bfede3c",
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "description": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-11T06:01:54+00:00"
+    },
+    {
+      "id": "0f04475df7f769fc",
+      "title": "Why leadership decides Italy’s energy security",
+      "description": "At Solar & Storage Live Italia, panels organised by Women in Solar+ Europe (WiSEu) and Solar+ Leaders argued that decisions made in a project's first months, and the inclusive teams built to make them, matter as much to energy security as megawatts and capital.",
+      "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-10T08:00:00+00:00"
+    },
+    {
+      "id": "ec445018e75f175b",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts.",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-09T12:10:00+00:00"
+    }
+  ]
+}
