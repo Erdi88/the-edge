@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12T12:17:55+00:00",
+  "stories": [
+    {
+      "id": "eda598029373b893",
+      "title": "Eskom kicks off tender for 6 GW of renewables-plus-storage",
+      "description": "South African utility Eskom has launched a qualification process to select strategic partners for up to 6 GW of renewable energy and storage projects. The portfolio will include at least 2 GW of solar and 1 GW/4 GWh of battery storage, with selected developers joining a five-year co-development and investment framework.",
+      "url": "https://www.pv-magazine.com/2026/10/12/eskom-kicks-off-tender-for-6-gw-of-renewables-plus-storage",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-12T11:38:47+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "fbc63022b341f7c0",
+      "title": "South Korea details auction market to replace renewable quota system",
+      "description": "Draft rules for South Korea’s new renewables auction market provide for monthly difference payments from Korea Electric Power Corp. (Kepco), a separate track for projects up to 500 kW, and an exit route for renewable energy certificate (REC) spot-market sellers.",
+      "url": "https://www.pv-magazine.com/2026/10/12/south-korea-details-auction-market-to-replace-renewable-quota-system",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-12T09:00:00+00:00"
+    },
+    {
+      "id": "4b1ee3039cb69fe0",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next.",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-09T00:08:24+00:00"
+    },
+    {
+      "id": "e06f72ff2e014e2b",
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "description": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-12T09:00:00+00:00"
+    },
+    {
+      "id": "b76d9ebb51a6087e",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-12T00:59:01+00:00"
+    },
+    {
+      "id": "6ad735d17667970a",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-11T21:14:40+00:00"
+    },
+    {
+      "id": "b1a74f411bd88823",
+      "title": "Why some have no choice but to pay costly oil prices",
+      "description": "The rural communities vulnerable to heating oil prices rises as the weather gets colder.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-12T05:27:55+00:00"
+    },
+    {
+      "id": "18bfcc9334950520",
+      "title": "Tom Cruise film Digger could lose $245m at box office",
+      "description": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-12T11:29:18+00:00"
+    },
+    {
+      "id": "0eebd18f3679edd1",
+      "title": "Scientists make stunning discovery that could help explain why life exists",
+      "description": "Scientists have discovered that the universe's fundamental physical constants may be finely balanced to make life possible. Even tiny changes to these constants could make liquids too thick or too thin for essential biological processes, potentially preventing life as we know it.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-11T16:35:58+00:00"
+    },
+    {
+      "id": "e8bb1f21aa1c96c8",
+      "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+      "description": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-12T06:24:46+00:00"
+    },
+    {
+      "id": "290feb5aa7997352",
+      "title": "Batteries beat gas peakers on cost globally, but U.S. faces trade headwinds",
+      "description": "Four-hour storage is now cheaper than open-cycle gas in 43 modeled markets, though tariffs threaten near-term U.S. gains, said a report from Wood Mackenzie.",
+      "url": "https://www.pv-magazine.com/2026/10/12/batteries-beat-gas-peakers-on-cost-globally-but-u-s-faces-trade-headwinds",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-12T06:01:19+00:00"
+    },
+    {
+      "id": "f14628c7e101ae18",
+      "title": "AI-Mediation in Retail Markets: Revenue Effects and Assortment Optimization",
+      "description": "arXiv:2610.12917v1 Announce Type: new Abstract: AI shopping assistants increasingly influence which products consumers consider. We study retail assortment planning under AI mediation, where a retailer chooses a catalog, an AI intermediary forms a customer-facing shortlist, and the customer chooses from that shortlist according to a multinomial logit model.",
+      "url": "https://arxiv.org/abs/2610.12917",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-12T04:00:00+00:00"
+    }
+  ]
+}
