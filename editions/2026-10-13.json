@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-13",
+  "updated_at": "2026-10-13T12:01:47+00:00",
+  "stories": [
+    {
+      "id": "9e992d491b86c018",
+      "title": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system",
+      "description": "While it is known that batteries are indispensable for the future energy system dominated by solar PV, they are still seen as a bottleneck technology mostly related to raw material supply. Sodium-ion batteries can resolve this issue.",
+      "url": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-13T11:05:45+00:00"
+    },
+    {
+      "id": "f2b52b2ad6e447b0",
+      "title": "Exide launches modular 125 kW/261 kWh battery for C&I applications",
+      "description": "The French manufacturer has introduced a new lithium iron phosphate (LFP) battery featuring an integrated 125 kW power conversion system, 261 kWh of storage capacity and a nominal round-trip efficiency of 86%.",
+      "url": "https://www.pv-magazine.com/2026/10/13/exide-launches-modular-125-kw-261-kwh-battery-for-ci-applications",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-13T12:01:23+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "bf4128f6671092f1",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "description": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-13T09:00:00+00:00"
+    },
+    {
+      "id": "b9412986ffa5d3dc",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "description": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-12T20:59:50+00:00"
+    },
+    {
+      "id": "f32ec83ece71d3f7",
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-12T15:45:00+00:00"
+    },
+    {
+      "id": "de563f5e428af2e8",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-12T15:27:59+00:00"
+    },
+    {
+      "id": "f01b2978388106ae",
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-12T18:31:32+00:00"
+    },
+    {
+      "id": "1697c0accd91f236",
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-13T11:58:43+00:00"
+    },
+    {
+      "id": "dba7645abe4ce804",
+      "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+      "description": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more effective, eco-friendly solutions.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-11T20:01:25+00:00"
+    },
+    {
+      "id": "43d93783ae07d336",
+      "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+      "description": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed. The discovery also uncovered a surprising connection between scattered starlight and invisible dark matter that could transform how astronomers study the early cosmos.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-13T11:27:24+00:00"
+    },
+    {
+      "id": "a73758600e26818d",
+      "title": "Qatar’s renewable capacity share could more than double by 2035",
+      "description": "Renewables could rise from 12% of Qatar's power capacity in 2025 to 25.9% by 2035, says GlobalData, with solar leading while gas remains the backbone of its power and water system.",
+      "url": "https://www.pv-magazine.com/2026/10/13/qatars-renewable-capacity-share-to-more-than-double-by-2035",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-13T10:30:00+00:00"
+    },
+    {
+      "id": "3c693ab3618439a4",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-13T10:00:00+00:00"
+    }
+  ]
+}
