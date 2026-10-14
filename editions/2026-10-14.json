@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-14",
+  "updated_at": "2026-10-14T09:39:18+00:00",
+  "stories": [
+    {
+      "id": "f92a2b7b6bc655d9",
+      "title": "US power prices fall with utility-scale solar, rise with rooftop",
+      "description": "MIT researchers say there is no link between renewable portfolio standards or utility-scale wind and solar and higher US residential power prices, but rooftop solar correlates with higher rates and distribution costs.",
+      "url": "https://www.pv-magazine.com/2026/10/13/us-power-prices-fall-with-utility-scale-solar-rise-with-rooftop",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-13T12:50:00+00:00"
+    },
+    {
+      "id": "cec6edc42a028921",
+      "title": "EcoFlow launches 5-30 kWh residential storage system",
+      "description": "The three-model range combines battery backup, solar charging and a new home panel, Three models offer 5–30 kWh of storage, and with immediate availability. It’s a smaller starting option versus EcoFlow’s Delta Pro Ultra systems.",
+      "url": "https://www.pv-magazine.com/2026/10/14/ecoflow-launches-5-30-kwh-residential-storage-system",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-14T07:11:21+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "125efda44bd939ea",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-13T12:00:00+00:00"
+    },
+    {
+      "id": "020dc58f2fcbb5ec",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "description": "Open the original article for the full report.",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-13T20:23:55+00:00"
+    },
+    {
+      "id": "4e9e4f1d9cd106f6",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-13T17:18:25+00:00"
+    },
+    {
+      "id": "a39e722cd4fae0d9",
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-13T18:30:03+00:00"
+    },
+    {
+      "id": "fec2ddb6cf3f1e21",
+      "title": "Heating oil users facing fuel or food winter choice",
+      "description": "It comes as ministers say they will tighten up rules on heating oil and promote competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-14T05:18:40+00:00"
+    },
+    {
+      "id": "1429e29f28cf5f2d",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-14T02:05:32+00:00"
+    },
+    {
+      "id": "dc17afb5d1d9a421",
+      "title": "210-million-year-old dinosaur discovery reveals a lost world in Africa",
+      "description": "A newly identified 210-million-year-old dinosaur from Zimbabwe is helping scientists uncover a surprisingly distinct prehistoric ecosystem. The discovery suggests that ancient climate differences may have separated dinosaur populations across southern Africa, leading to unique species that challenge previous assumptions about their evolution.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185013.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-13T22:53:03+00:00"
+    },
+    {
+      "id": "fdcc7aa249c6186f",
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "description": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial intelligence, even when both behave identically. Researchers found that participants considered even the most responsive AI less conscious than the least responsive human.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T01:41:55+00:00"
+    },
+    {
+      "id": "be45865e2a9ac0dc",
+      "title": "Leapting launches autonomous forklift for solar module transport",
+      "description": "The Chinese robotics manufacturer has introduced an autonomous tracked forklift capable of transporting solar module pallets weighing up to 3,000 kg. The battery-powered machine features a maximum lifting height of 3 m, a 30-degree climbing capability and a navigation system combining GNSS-RTK, laser SLAM and computer vision.",
+      "url": "https://www.pv-magazine.com/2026/10/13/leapting-launches-autonomous-forklift-for-solar-module-transport",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-13T12:35:27+00:00"
+    },
+    {
+      "id": "ee42e0fa971ce265",
+      "title": "A planet 320 light-years away confirms what scientists long suspected",
+      "description": "Astronomers have discovered that a scorching-hot planet 320 light-years away shares a striking chemical similarity with its host star, providing the first direct evidence for a fundamental assumption about planet formation.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185015.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T00:24:40+00:00"
+    }
+  ]
+}
