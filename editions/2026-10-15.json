@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-15",
+  "updated_at": "2026-10-15T09:17:44+00:00",
+  "stories": [
+    {
+      "id": "7adc3a90c62f3b7c",
+      "title": "Finland demands grid-forming support for new wind, solar in weak grids",
+      "description": "Fingrid will require new wind and solar plants in Finland’s weakest grid areas to provide grid-forming capability, which developers can meet with co-located batteries sized at up to 30% of plant output.",
+      "url": "https://www.pv-magazine.com/2026/10/15/finland-demands-grid-forming-support-for-new-wind-solar-in-weak-grids",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-15T07:47:39+00:00"
+    },
+    {
+      "id": "0cc9cb28a78a9683",
+      "title": "Brazil’s presidential election: Lula and Bolsonaro’s proposals for solar energy",
+      "description": "Brazil's presidential election will be decided in Sunday's runoff, with Luiz Inácio Lula da Silva and Flávio Bolsonaro outlining competing energy policies. Both candidates propose expanding renewable energy and storage capacity while reducing electricity costs.",
+      "url": "https://www.pv-magazine.com/2026/10/15/brazils-presidential-election-lula-and-bolsonaros-proposals-for-solar-energy",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-15T05:47:49+00:00"
+    },
+    {
+      "id": "ea9491c23d8daf1c",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-14T12:55:06+00:00"
+    },
+    {
+      "id": "37d82df9fe7c9fac",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "description": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-14T11:00:30+00:00"
+    },
+    {
+      "id": "23f4a55e999212ed",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-15T00:30:00+00:00"
+    },
+    {
+      "id": "805f9f77879f37f8",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-14T21:00:00+00:00"
+    },
+    {
+      "id": "1f7088d56feb4c6f",
+      "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+      "description": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-15T07:40:27+00:00"
+    },
+    {
+      "id": "0b7274ba05c98359",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-15T07:20:45+00:00"
+    },
+    {
+      "id": "93aec27f5eb2fee3",
+      "title": "Scientists reveal 93% of Australia's Indigenous population was lost in just 73 years",
+      "description": "A groundbreaking study suggests that 2.22 million Indigenous Australians lived on the continent before European colonization, far more than previously believed. Researchers estimate that 93% of this population was lost within 73 years, revealing a demographic catastrophe on a scale that dramatically changes our understanding of Australian history.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T23:34:00+00:00"
+    },
+    {
+      "id": "ce601ad16e552e0b",
+      "title": "Scientists reveal why some workout recovery tricks can backfire",
+      "description": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T12:04:20+00:00"
+    },
+    {
+      "id": "c1827a4c56e22e4b",
+      "title": "El Salvador announces 400 MW solar, 1 GWh battery storage push",
+      "description": "Cox plans to develop up to 400 MW of solar capacity and 1 GWh of battery storage in El Salvador under an investment agreement that also covers natural gas infrastructure and water management. The government will participate as a partner in the energy projects.",
+      "url": "https://www.pv-magazine.com/2026/10/15/el-salvador-announces-400-mw-solar-1-gwh-battery-storage-push",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-15T05:26:20+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "0f587af6ef72cb88",
+      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+      "description": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines. Researchers at Cornell University discovered that the brothers carried two altered copies of a gene linked to the rare connective tissue disorder, which can affect the eyes, heart, and blood vessels.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T11:56:22+00:00"
+    }
+  ]
+}
