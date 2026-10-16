@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16T09:11:05+00:00",
+  "stories": [
+    {
+      "id": "a1e2dee0998775ae",
+      "title": "Lead-acid battery pilot switched on at Australian university testing facility",
+      "description": "New Zealand-based energy storage company ArcActive, in collaboration with Origin Zero, has switched on its lead-acid battery system pilot connected to Deakin University's 7.25 MW microgrid and Origin's virtual power plant.",
+      "url": "https://www.pv-magazine.com/2026/10/16/lead-acid-battery-pilot-switched-on-at-victorian-university-testing-facility",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-16T06:13:29+00:00"
+    },
+    {
+      "id": "d162dd3b54c21dbd",
+      "title": "China’s first 100 MW/1,000 MWh compressed CO2 storage plant connects to grid",
+      "description": "China Huadian has achieved the first grid connection of its 100 MW/1,000 MWh compressed CO₂ energy storage plant in Xinjiang, marking a major milestone in long-duration energy storage. The facility offers 10 hours of storage and is expected to generate 200 GWh annually, supporting renewable energy integration and reducing carbon emissions.",
+      "url": "https://www.pv-magazine.com/2026/10/15/chinas-first-100-mw-1000-mwh-compressed-co2-storage-plant-connects-to-grid",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-15T14:52:10+00:00"
+    },
+    {
+      "id": "499fcbd081b8b35b",
+      "title": "Muse Spark Open",
+      "description": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42Bhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-15T17:47:39+00:00"
+    },
+    {
+      "id": "d9565dcb996553e7",
+      "title": "Neutron's first launch slips again amid trouble with carbon composites",
+      "description": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-15T16:57:24+00:00"
+    },
+    {
+      "id": "a0dd901df9cb7cea",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "c926d16bda3c4f26",
+      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-16T05:16:46+00:00"
+    },
+    {
+      "id": "e7d48fa290a0b766",
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-16T08:54:43+00:00"
+    },
+    {
+      "id": "ec09cceda66bc571",
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-16T08:45:54+00:00"
+    },
+    {
+      "id": "37d0ad1d7adaa1f8",
+      "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
+      "description": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt.",
+      "url": "https://arxiv.org/abs/2610.21074",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T04:00:00+00:00"
+    },
+    {
+      "id": "591063f35f90e659",
+      "title": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+      "description": "arXiv:2610.21767v1 Announce Type: new Abstract: Can AI agents organize scientific investigations that lead to well-supported conclusions? To evaluate this capability, we introduce PhysClosureBench, a benchmark of 50 expert-verified, goal-specified research tasks spanning strong-field, attosecond, and neighboring physics areas.",
+      "url": "https://arxiv.org/abs/2610.21767",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T04:00:00+00:00"
+    },
+    {
+      "id": "4354dfd5ab4781cc",
+      "title": "Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation",
+      "description": "arXiv:2602.18891v2 Announce Type: replace-cross Abstract: Advances in large language models (LLMs) are rapidly transforming scientific work, yet empirical evidence on how these systems reshape research activities remains limited.",
+      "url": "https://arxiv.org/abs/2602.18891",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T04:00:00+00:00"
+    },
+    {
+      "id": "0d9fd04e4b636b9c",
+      "title": "Electrifying everything",
+      "description": "COP31 aims to increase electricity’s share of global final energy demand from 20% to 35% by 2035, accelerating the transition to clean, affordable energy through electrification.",
+      "url": "https://www.pv-magazine.com/2026/10/16/electrifying-everything",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-16T08:43:15+00:00"
+    }
+  ]
+}
