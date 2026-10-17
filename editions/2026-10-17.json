@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17T08:43:27+00:00",
+  "stories": [
+    {
+      "id": "d8b76400dde220ee",
+      "title": "France to ease grid connection rules for solar-plus-storage projects up to 25 MW",
+      "description": "France plans to ease grid connection rules for solar-plus-storage projects with installed capacity of up to 25 MW, provided grid injection does not exceed 17 MW. The measure is part of a broader government initiative to accelerate electrification and improve electricity demand flexibility.",
+      "url": "https://www.pv-magazine.com/2026/10/17/france-to-ease-grid-connection-rules-for-solar-plus-storage-projects-up-to-25-mw",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-17T08:30:00+00:00"
+    },
+    {
+      "id": "4562512cceef3912",
+      "title": "Dutch regulator flags EU cyber gap for cloud-controlled home batteries",
+      "description": "A Dutch regulator says EU cybersecurity rules should target companies by how much power they can control remotely, not by their size, and wants home energy devices certified independently under the Cyber Resilience Act (CRA).",
+      "url": "https://www.pv-magazine.com/2026/10/17/dutch-regulator-flags-eu-cyber-gap-for-cloud-controlled-home-batteries",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-17T07:00:00+00:00"
+    },
+    {
+      "id": "5b95b356b53e30b5",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-16T20:59:01+00:00"
+    },
+    {
+      "id": "e9e1470690b03f80",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-16T18:00:00+00:00"
+    },
+    {
+      "id": "35077eb2dc0b8d16",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-17T02:36:18+00:00"
+    },
+    {
+      "id": "02f60fa99bd6fa5d",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-16T12:55:09+00:00"
+    },
+    {
+      "id": "b41684a8072def39",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-16T14:31:04+00:00"
+    },
+    {
+      "id": "42ceb7372686636b",
+      "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+      "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+      "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-16T11:40:41+00:00"
+    },
+    {
+      "id": "30912ffb71056716",
+      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+      "description": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses. By growing and modifying immature immune cells rather than mature ones, researchers developed a system that can continuously produce tumor-fighting cells inside the body.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T12:46:50+00:00"
+    },
+    {
+      "id": "d78c697dd9d5205a",
+      "title": "Yale scientists discover how stress changes the brain to make memories stronger",
+      "description": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories. The discovery reveals that stress can reshape communication between brain networks involved in emotion and memory, potentially explaining why certain moments are so difficult to forget.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T11:55:35+00:00"
+    },
+    {
+      "id": "bd6075321e3150fa",
+      "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
+      "description": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic investments.",
+      "url": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-16T10:09:57+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "fc5f06e3d850050e",
+      "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
+      "description": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable plastics completely broke down in soil within about a year, while conventional plastic remained largely unchanged.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-16T10:32:03+00:00"
+    }
+  ]
+}
