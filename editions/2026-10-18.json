@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-18",
+  "updated_at": "2026-10-18T08:58:55+00:00",
+  "stories": [
+    {
+      "id": "29921a268b25232e",
+      "title": "Beyond recruitment: What really keeps women in solar",
+      "description": "This week, Women in Solar+ Europe (WiSEu) shares insights from its contribution to SolarPower Europe’s EU Solar Jobs Report 2026, exploring what attracts women to Solar+ and what makes them stay, progress or leave.",
+      "url": "https://www.pv-magazine.com/2026/10/17/beyond-recruitment-what-really-keeps-women-in-solar",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "id": "5009306afe8f350c",
+      "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
+      "description": "The latest Clean Energy Regulator data shows investment in solar is setting a new annual record with solar final investment decisions for the September 2026 quarter at 1 GW, adding to 3.5 GW already achieved in 2026.",
+      "url": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-17T06:00:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "0e1c32a585dd4e05",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-18T04:33:49+00:00"
+    },
+    {
+      "id": "b3c5710f804248e2",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "description": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-16T20:20:07+00:00"
+    },
+    {
+      "id": "bdb5caa1dae4ab50",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-15T23:44:56+00:00"
+    },
+    {
+      "id": "c9651788989bdf1f",
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-16T16:06:38+00:00"
+    },
+    {
+      "id": "3f29fb9495d75682",
+      "title": "Heating oil customers face tough winter",
+      "description": "The government plans to regulate heating oil prices after increases.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-18T06:07:40+00:00"
+    },
+    {
+      "id": "0bd6429ce4de8bfb",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-17T23:52:38+00:00"
+    },
+    {
+      "id": "6c0014b5454b4c6f",
+      "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+      "description": "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers. The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-15T12:52:05+00:00"
+    },
+    {
+      "id": "f6a9a7066aa0e825",
+      "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+      "description": "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide. By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-15T11:45:43+00:00"
+    },
+    {
+      "id": "b13328c7db66dcbb",
+      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+      "description": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-14T11:06:19+00:00"
+    },
+    {
+      "id": "7830e36972a92d24",
+      "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
+      "description": "The manufacturer partnered with Aluko Group to supply U.S.-made aluminum frames from Tennessee, aimed at streamlining domestic content bonus qualification under increasing IRA thresholds.",
+      "url": "https://www.pv-magazine.com/2026/10/17/qcells-to-introduce-u-s-domestic-frames-for-residential-solar-panel-lineup",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-17T09:50:00+00:00"
+    }
+  ]
+}
