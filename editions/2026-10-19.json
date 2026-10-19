@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T10:08:12+00:00",
+  "stories": [
+    {
+      "id": "c133cc83f8f04fd7",
+      "title": "Bangladesh plans 70 MW solar plant at coal power station",
+      "description": "The European Investment Bank (EIB) is expected to help finance a planned 70 MW solar power plant at Bangladesh’s Matarbari coal-fired power station, with commissioning targeted for December 2028.",
+      "url": "https://www.pv-magazine.com/2026/10/19/bangladesh-plans-70-mw-solar-plant-at-coal-power-station",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-19T09:30:00+00:00"
+    },
+    {
+      "id": "4ad8017ffb38e478",
+      "title": "Patent lawsuit points to 10 GW ingot and wafer equipment import for Tesla’s $10 billion Texas solar factory",
+      "description": "A federal lawsuit filed in East Texas is shedding light on the equipment supply chain powering domestic clean energy manufacturing, with court filings and public records pointing toward Tesla's planned solar expansion in the state.",
+      "url": "https://www.pv-magazine.com/2026/10/19/patent-lawsuit-points-to-10-gw-ingot-and-wafer-equipment-import-for-teslas-10-billion-texas-solar-factory",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-19T05:24:21+00:00"
+    },
+    {
+      "id": "3d42f5bc85a72e6c",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-19T09:08:05+00:00"
+    },
+    {
+      "id": "ae6e49210029e41a",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "description": "Open the original article for the full report.",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-18T20:48:14+00:00"
+    },
+    {
+      "id": "be252e52e8eede48",
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-19T07:30:00+00:00"
+    },
+    {
+      "id": "71e1590c6c971a33",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-18T16:30:00+00:00"
+    },
+    {
+      "id": "e5cad304e22ba059",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-19T06:08:02+00:00"
+    },
+    {
+      "id": "45bc29851a85a91e",
+      "title": "What are the new faces coming to UK bank notes?",
+      "description": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-19T09:48:35+00:00"
+    },
+    {
+      "id": "3b6ba45cf29bd2f5",
+      "title": "Scientists who discovered a third form of magnetism win major physics prize",
+      "description": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-18T09:41:44+00:00"
+    },
+    {
+      "id": "42a920ca5ec432f7",
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "description": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-18T13:46:34+00:00"
+    },
+    {
+      "id": "23ed720af445d3dd",
+      "title": "Indonesian president instructs transformation of power utility",
+      "description": "A reform of Indonesia's power utility PT PLN is set to focus on improving efficiency and productivity, as well as accelerating the delivery of the country's 100 GW solar program.",
+      "url": "https://www.pv-magazine.com/2026/10/19/indonesian-president-instructs-transformation-of-power-utility",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-19T09:07:38+00:00"
+    },
+    {
+      "id": "2085404b83a02434",
+      "title": "At the Limits of Computability: Steps Towards Autonomous AI Discovery on the Busy Beaver Frontier",
+      "description": "arXiv:2610.22603v1 Announce Type: new Abstract: Recent breakthroughs in AI for mathematics---ranging from Olympiad medal performances to resolving long-standing open conjectures---have rapidly expanded what automated systems can achieve.",
+      "url": "https://arxiv.org/abs/2610.22603",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-19T04:00:00+00:00"
+    }
+  ]
+}
