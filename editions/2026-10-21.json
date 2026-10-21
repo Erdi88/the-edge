@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-21",
+  "updated_at": "2026-10-21T09:29:40+00:00",
+  "stories": [
+    {
+      "id": "22a11877a7ad5c2e",
+      "title": "Peru proposes reviving power interconnection with Chile to tap its solar generation",
+      "description": "Peru is seeking to revive electricity interconnection talks with Chile to facilitate cross-border power exchanges and make better use of Chile's surplus solar and wind generation. A proposed 1,000 MW transmission link would require an estimated investment of $550 million.",
+      "url": "https://www.pv-magazine.com/2026/10/21/peru-proposes-reviving-power-interconnection-with-chile-to-tap-its-solar-generation",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-21T04:55:54+00:00"
+    },
+    {
+      "id": "848d204f8a969a47",
+      "title": "Safety by design: PCS Considerations in mixed PV and battery energy storage systems",
+      "description": "Integrating PV and BESS equipment from different manufacturers provides deployment flexibility, but safe system operation requires designers to properly evaluate power control system (PCS) capabilities and account for independently operating energy sources.",
+      "url": "https://www.pv-magazine.com/2026/10/21/safety-by-design-pcs-considerations-in-mixed-pv-and-battery-energy-storage-systems",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-21T04:15:27+00:00"
+    },
+    {
+      "id": "6a7ad8e441e64987",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "description": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-20T20:07:58+00:00"
+    },
+    {
+      "id": "30ae9a280ededb52",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "description": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-20T21:44:34+00:00"
+    },
+    {
+      "id": "70cbed806b5b38bf",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-20T20:35:10+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "695641ce96a702ee",
+      "title": "SpaceX’s AI business is beating expectations",
+      "description": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-20T20:40:41+00:00"
+    },
+    {
+      "id": "ebc55d4cf9740aa5",
+      "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
+      "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-21T08:07:09+00:00"
+    },
+    {
+      "id": "1b54169ee507fb5e",
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-20T19:30:05+00:00"
+    },
+    {
+      "id": "9fbc5ed2c2537b34",
+      "title": "OptScientist: Automated Discovery of Optimization Laws",
+      "description": "arXiv:2610.28562v1 Announce Type: new Abstract: Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns.",
+      "url": "https://arxiv.org/abs/2610.28562",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-21T04:00:00+00:00"
+    },
+    {
+      "id": "38eb5bd2d859ebbe",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "description": "arXiv:2610.28629v1 Announce Type: cross Abstract: Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging.",
+      "url": "https://arxiv.org/abs/2610.28629",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-21T04:00:00+00:00"
+    },
+    {
+      "id": "919667132a90a7d2",
+      "title": "Hoymiles releases a 2,000 kWh C&I energy storage solution",
+      "description": "Chinese manufacturer Hoymiles has launched a C&I battery storage system with capacities ranging from 2 MWh to 2.61 MWh and power outputs of up to 1.25 MW. The containerized system features liquid cooling, integrated fire protection, and backup power switching in less than 20 ms.",
+      "url": "https://www.pv-magazine.com/2026/10/21/hoymiles-releases-a-2000-kwh-ci-energy-storage-solution",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-21T07:30:00+00:00"
+    },
+    {
+      "id": "ac8ffa6199dc3be4",
+      "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+      "description": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conducting mathematical exploration.",
+      "url": "https://arxiv.org/abs/2610.27046",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-21T04:00:00+00:00"
+    }
+  ]
+}
