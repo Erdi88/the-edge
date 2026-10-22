@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-22",
+  "updated_at": "2026-10-22T09:32:41+00:00",
+  "stories": [
+    {
+      "id": "7179d30d57e133b8",
+      "title": "China outlines new spot market rules supporting renewable energy and storage integration",
+      "description": "The revised rules would cover joint bidding, dispatch, settlement and performance assessment, alongside further electricity market reforms.",
+      "url": "https://www.pv-magazine.com/2026/10/22/china-outlines-new-spot-market-rules-supporting-renewable-energy-and-storage-integration",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-22T05:48:25+00:00"
+    },
+    {
+      "id": "2fab937b737e8b18",
+      "title": "Encavis signs first solar-wind PPA with Spanish supplier",
+      "description": "Germany's Encavis will supply Spanish energy provider Visalia with 60 GWh of renewable electricity annually for 3.5 years under a hybrid agreement covering two solar parks and three wind farms totaling 199 MW.",
+      "url": "https://www.pv-magazine.com/2026/10/22/encavis-signs-first-solar-wind-ppa-with-spanish-supplier",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "id": "bf7b07d2d53b813f",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "description": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-21T18:51:42+00:00"
+    },
+    {
+      "id": "bbe8759f3c898013",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds?",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-22T08:41:18+00:00"
+    },
+    {
+      "id": "306641626594d203",
+      "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+      "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+      "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-21T14:03:11+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "36b6bec743e2bdf3",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-21T18:51:56+00:00"
+    },
+    {
+      "id": "a2c56c28385e814c",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "description": "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm.",
+      "url": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-22T05:29:22+00:00"
+    },
+    {
+      "id": "eabfdab6b5261ba0",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-21T23:27:05+00:00"
+    },
+    {
+      "id": "4e826f0c9c9c64a6",
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+      "description": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-related diseases such as Alzheimer's.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-21T11:03:52+00:00"
+    },
+    {
+      "id": "68a4ace25406996b",
+      "title": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
+      "description": "Deep inside a high-altitude Chinese cave, scientists discovered a ghostly, eyeless freshwater snail that has evolved to live entirely in darkness, marking the first recorded discovery of its kind in China. Named after a faceless mythical creature, the rare species may already be in danger, with researchers finding only three living adults.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-21T03:08:17+00:00"
+    },
+    {
+      "id": "7ad2e33c50f0a261",
+      "title": "Italy’s solar output rises 27% to 5.32 TWh in September",
+      "description": "Solar generation accounted for 48.6% of Italy’s renewable electricity output in September 2026, while renewable capacity additions for standalone battery storage slowed compared with the previous year.",
+      "url": "https://www.pv-magazine.com/2026/10/22/italys-solar-output-rises-27-to-5-32-twh-in-september",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-22T08:30:00+00:00"
+    },
+    {
+      "id": "9693422f7d3732ac",
+      "title": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
+      "description": "arXiv:2610.28556v1 Announce Type: cross Abstract: Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established statistical methods.",
+      "url": "https://arxiv.org/abs/2610.28556",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-22T04:00:00+00:00"
+    }
+  ]
+}
