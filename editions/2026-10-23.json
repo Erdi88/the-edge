@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23T09:28:55+00:00",
+  "stories": [
+    {
+      "id": "100c359ead1ec52e",
+      "title": "European solar, BESS marketplace expands to Romania",
+      "description": "Solmeria, an online marketplace for selling solar and battery energy storage systems directly to buyers, is now listing projects in Romania alongside offers in France and Italy.",
+      "url": "https://www.pv-magazine.com/2026/10/23/european-solar-bess-marketplace-expands-to-romania",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-23T08:30:00+00:00"
+    },
+    {
+      "id": "b03c070c61a4b156",
+      "title": "South Korea’s renewable energy capacity overtakes coal for first time",
+      "description": "Renewable energy capacity in South Korea reached 41 GW on Oct. 21, edging past coal-fired capacity for the first time, according to the country’s power market operator.",
+      "url": "https://www.pv-magazine.com/2026/10/23/south-koreas-renewable-energy-capacity-overtakes-coal-for-first-time",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-23T09:15:00+00:00"
+    },
+    {
+      "id": "d2d147873d73c857",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "description": "Open the original article for the full report.",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-22T21:03:55+00:00"
+    },
+    {
+      "id": "723049a74bfe3dca",
+      "title": "Designing an AI serving harness built to last",
+      "description": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores.",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-22T21:17:29+00:00"
+    },
+    {
+      "id": "86d482286315a80d",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-22T20:00:00+00:00"
+    },
+    {
+      "id": "64aba7dfd5d83ac3",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-22T18:38:47+00:00"
+    },
+    {
+      "id": "75316f233f3752ef",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "description": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
+      "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-22T09:55:16+00:00"
+    },
+    {
+      "id": "3611fdce70f962bb",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-21T10:20:15+00:00"
+    },
+    {
+      "id": "a4a83129ab809d80",
+      "title": "ORSMT: Unleashing the Potential of Satisfiability Modulo Theories for Semantic Verification and Repair in LLM-Based Optimization",
+      "description": "arXiv:2610.29145v1 Announce Type: cross Abstract: Large language models increasingly automate optimization modeling from natural language problems, producing written mathematics, solver code and a returned report.",
+      "url": "https://arxiv.org/abs/2610.29145",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T04:00:00+00:00"
+    },
+    {
+      "id": "84b909d314d43ac7",
+      "title": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
+      "description": "arXiv:2610.29171v1 Announce Type: cross Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such as operator fusion are only partially applied, leaving fragmented computation and avoidable execution overheads.",
+      "url": "https://arxiv.org/abs/2610.29171",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T04:00:00+00:00"
+    },
+    {
+      "id": "36c31c440731f964",
+      "title": "Sodium-ion storage maker Peak Energy raises $108 million in GM-led round",
+      "description": "A US sodium-ion battery storage company has closed a $108 million Series B round led by General Motors’ venture arm, as it prepares to start production at a 4 GWh factory in California and launch its systems in the data center market.",
+      "url": "https://www.pv-magazine.com/2026/10/23/sodium-ion-storage-maker-peak-energy-raises-108-million-in-gm-led-round",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-23T08:54:39+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "16453fadf716a18f",
+      "title": "The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions",
+      "description": "arXiv:2603.01092v3 Announce Type: replace Abstract: Scientific discovery is constrained not only by what is true, but by what is cognitively available to researchers. Many directions are coherent in light of the literature yet unlikely to be proposed because no existing community combines the relevant concepts, methods, and intuitions.",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T04:00:00+00:00"
+    }
+  ]
+}
