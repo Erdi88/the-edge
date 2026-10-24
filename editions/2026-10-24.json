@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-24",
+  "updated_at": "2026-10-24T09:00:05+00:00",
+  "stories": [
+    {
+      "id": "b6bb4e2a001b6ca8",
+      "title": "Couple travels through 10 African countries in solar-powered motorhome with battery storage",
+      "description": "A Brazilian couple traveled through 10 African countries in a motorhome equipped with rooftop solar panels, 15.36 kWh of lithium battery storage, and alternator charging. The system powers household appliances and satellite internet, enabling off-grid travel with minimal reliance on external electricity connections.",
+      "url": "https://www.pv-magazine.com/2026/10/24/couple-travels-through-10-african-countries-in-solar-powered-motorhome-with-battery-storage",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-24T07:00:00+00:00"
+    },
+    {
+      "id": "28bf5d61f87fdda9",
+      "title": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026",
+      "description": "Vietnam has instructed provincial and municipal authorities to introduce support policies for residential rooftop solar installations by the end of December 2026, as part of efforts to secure electricity supplies between 2027 and 2030. The government is also pushing for faster deployment of battery energy storage systems, particularly in northern Vietnam.",
+      "url": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-24T07:30:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "8c56e44a24b1f6b8",
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "description": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-23T17:18:31+00:00"
+    },
+    {
+      "id": "0c52706d1cc52b2e",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "description": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:I show you what the agents are up to, along with a running feed of their activity.",
+      "url": "https://corgi.computer/",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-23T19:46:38+00:00"
+    },
+    {
+      "id": "48dd6bd9146bbf9b",
+      "title": "Startups don’t need to go viral to win customers",
+      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-23T23:07:45+00:00"
+    },
+    {
+      "id": "1ef66d48b49773e1",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-23T19:25:13+00:00"
+    },
+    {
+      "id": "97c227bfaa084727",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-24T00:36:47+00:00"
+    },
+    {
+      "id": "12a5f691ece35539",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "description": "Open the original article for the full report.",
+      "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-23T15:41:28+00:00"
+    },
+    {
+      "id": "87223e7ec8853e65",
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "description": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem. Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T11:12:28+00:00"
+    },
+    {
+      "id": "4a55815b9fa73758",
+      "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+      "description": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities. Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits as the disease progresses.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T10:10:11+00:00"
+    },
+    {
+      "id": "f1ed36f93acf8ba0",
+      "title": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group",
+      "description": "UAE-based Jampur Group has been selected to manage and modernize Mozambique’s Beluluane Solar Panel Factory, which suspended production around 2022 due to technological limitations and market competition. The initiative aims to revive domestic solar panel manufacturing, improve competitiveness and create local employment opportunities.",
+      "url": "https://www.pv-magazine.com/2026/10/24/mozambique-entrusts-solar-panel-factory-to-uaes-jampur-group",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-24T08:45:00+00:00"
+    },
+    {
+      "id": "665e7ce0a225cf8c",
+      "title": "Scientists discover a hidden messaging system deep inside the brain",
+      "description": "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new research in mice.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T08:28:22+00:00"
+    }
+  ]
+}
