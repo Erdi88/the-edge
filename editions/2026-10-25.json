@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25T09:17:12+00:00",
+  "stories": [
+    {
+      "id": "75f680d03ad560d1",
+      "title": "Renewable Energy India Expo 2026: Three key takeaways",
+      "description": "India’s largest renewable energy trade show returned to Greater Noida, outside of Delhi, this week.",
+      "url": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-24T12:43:58+00:00"
+    },
+    {
+      "id": "5bb3a890e9e69ec4",
+      "title": "Italy deploys 4.83 GW of PV in January-September",
+      "description": "Italy connected 4.83 GW of new solar capacity in the first nine months of 2026, bringing cumulative installed capacity to 48.35 GW at the end of September. Utility-scale projects accounted for 46% of new additions, while the country's cumulative battery storage capacity approached 20 GWh, according to new statistics from Italia Solare.",
+      "url": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-24T09:00:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "4bbc4ed947d5a02c",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "description": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-22T21:07:09+00:00"
+    },
+    {
+      "id": "610efe4e9ad2d36f",
+      "title": "The Foundations of Scalable AI",
+      "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-22T18:48:04+00:00"
+    },
+    {
+      "id": "988202d2feb5743d",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-24T19:00:00+00:00"
+    },
+    {
+      "id": "0ce7cbd00087eca3",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-23T16:26:29+00:00"
+    },
+    {
+      "id": "02986a017ad14e8e",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-25T07:15:38+00:00"
+    },
+    {
+      "id": "33157f235e4ddfa3",
+      "title": "Heating oil costs 'more than double' ahead of winter",
+      "description": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-25T07:12:21+00:00"
+    },
+    {
+      "id": "fadf2f862b798bc2",
+      "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+      "description": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-23T01:21:47+00:00"
+    },
+    {
+      "id": "092774e28382bee3",
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+      "description": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-22T12:46:24+00:00"
+    },
+    {
+      "id": "fefb9c49627314fd",
+      "title": "‘When it is your turn, open the door for the woman coming next’",
+      "description": "This week, Women in Solar+ Europe gives voice to Italian independent renewable energy consultant Giulia Muia. She says a resilient energy sector depends not only on diversified energy sources but also on diverse voices, perspectives, and inclusive leadership that drive innovation and better decisions.",
+      "url": "https://www.pv-magazine.com/2026/10/24/when-it-is-your-turn-open-the-door-for-the-woman-coming-next",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-24T08:30:00+00:00"
+    },
+    {
+      "id": "918cc36dace48a2f",
+      "title": "Birds are more afraid of women than men. Scientists have no idea why",
+      "description": "Scientists have uncovered a strange pattern in urban bird behavior: Across five European countries and 37 species, birds consistently fled sooner when approached by women than men. Researchers have no clear explanation for the difference, raising intriguing questions about how birds recognize and respond to humans.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-22T12:06:14+00:00"
+    }
+  ]
+}
