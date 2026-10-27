@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27T09:57:23+00:00",
+  "stories": [
+    {
+      "id": "f81925896379ceeb",
+      "title": "Creating value in the turmoil: Electric mobility supporting solar and storage",
+      "description": "Europe’s energy transition is accelerating as solar power, battery storage, and electric vehicles converge into an integrated system, with EV batteries increasingly providing grid flexibility through vehicle-to-grid technology.",
+      "url": "https://www.pv-magazine.com/2026/10/27/creating-value-in-the-turmoil-electric-mobility-supporting-solar-and-storage",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-27T09:15:00+00:00"
+    },
+    {
+      "id": "7fc367af89fc86cd",
+      "title": "Toshiba pairs 20-minute SCiB power-type battery with conventional 7.6-hour BESS for Mongolian grid",
+      "description": "Toshiba is pairing its high-power SCiB lithium-ion cells, which it has begun to manufacture, with a separate traditional BESS for a microgrid in Mongolia, offering a dual-battery hybrid storage system for a PV plant.",
+      "url": "https://www.pv-magazine.com/2026/10/27/toshiba-pairs-20-minute-scib-power-type-battery-with-conventional-7-6-hour-bess-for-mongolian-grid",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-27T06:30:00+00:00"
+    },
+    {
+      "id": "65ea4fec5b48d42b",
+      "title": "How solid-state transformers could help power the AI boom",
+      "description": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-27T09:00:00+00:00"
+    },
+    {
+      "id": "a4a0751bea9ff7bd",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "description": "Included is the ability to limit which applications Siri can directly access.",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-26T20:04:16+00:00"
+    },
+    {
+      "id": "c8834c973f1bc77c",
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-26T17:45:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "c5ea2689c4b950f1",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-26T18:59:52+00:00"
+    },
+    {
+      "id": "e070fb278b64a849",
+      "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+      "description": "The BBC understands the government will also freeze fuel duty again in the Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-27T09:17:39+00:00"
+    },
+    {
+      "id": "029feaa13e6138cd",
+      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "description": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-27T06:33:11+00:00"
+    },
+    {
+      "id": "88426e5a70ebe4e1",
+      "title": "DISCERN: Can AI Agents Work Like Scientists and Guide Discovery?",
+      "description": "arXiv:2609.33357v2 Announce Type: replace Abstract: Reliable automated research requires agents to vet data, verify analyses, and generate hypotheses grounded in trustworthy evidence, potentially reducing routine scientific workload while allowing scientists to focus on interpretation and discovery.",
+      "url": "https://arxiv.org/abs/2609.33357",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-27T04:00:00+00:00"
+    },
+    {
+      "id": "1be99c75669dc696",
+      "title": "PACE: Research Proving Agent for Adaptive Conjecture Exploration",
+      "description": "arXiv:2610.33690v1 Announce Type: new Abstract: Many mathematical research agents focus on solving problems with fixed statements. However, conjecture research, especially in applied mathematics, may require revising candidate questions or conclusions as investigation proceeds, coupling problem formulation with proof development.",
+      "url": "https://arxiv.org/abs/2610.33690",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-27T04:00:00+00:00"
+    },
+    {
+      "id": "c153358f15685834",
+      "title": "A brief history of US solar",
+      "description": "The first silicon photovoltaic solar cell was developed in the United States 72 years ago. Solar is now a strong and growing industry in the U.S. and accounts for more than 70% of new electricity generating capacity added to the grid.",
+      "url": "https://www.pv-magazine.com/2026/10/27/a-brief-history-of-solar-in-the-u-s",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-27T07:30:00+00:00"
+    },
+    {
+      "id": "0e0b59c299f9b99b",
+      "title": "Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players",
+      "description": "arXiv:2610.33845v1 Announce Type: new Abstract: Can LLM agents carry a hard real-world problem from raw data to a system that holds its own against people? We study this in Hearthstone Battlegrounds, an eight-player auto-battler with stochastic shops and battles, hidden information and nearly a thousand interacting cards.",
+      "url": "https://arxiv.org/abs/2610.33845",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-27T04:00:00+00:00"
+    }
+  ]
+}
