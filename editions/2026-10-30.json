@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30T10:58:01+00:00",
+  "stories": [
+    {
+      "id": "59aa154e19b9e994",
+      "title": "ACME Solar signs 400 MW firm renewable power deal in India",
+      "description": "ACME Solar Holdings subsidiary ACME Marigold Urja has signed a 25-year power purchase agreement (PPA) with NTPC Ltd. to supply 400 MW of firm and dispatchable renewable energy (FDRE) at INR 4.37 ($0.046)/kWh. Deliveries are scheduled to begin on June 30, 2028.",
+      "url": "https://www.pv-magazine.com/2026/10/30/acme-solar-signs-400-mw-firm-renewable-power-deal-in-india",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-10-30T08:45:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "1a6aa9f4c496c6b9",
+      "title": "French solar car park rollout falls short of legal deadline",
+      "description": "Three months after the deadline set by France’s APER law, 85% of large supermarket car parks still have no visible photovoltaic (PV) canopies, according to the first national survey by Parksun. Solarizing half of the car park area covered by the study could deliver an estimated 7 TWh of electricity annually.",
+      "url": "https://www.pv-magazine.com/2026/10/30/french-solar-car-park-rollout-falls-short-of-legal-deadline",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-30T07:30:00+00:00"
+    },
+    {
+      "id": "700f3e4bbfb43c82",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "description": "Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla.",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-10-29T15:56:32+00:00"
+    },
+    {
+      "id": "ea15336c2c7ed5b9",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance.",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-29T12:10:00+00:00"
+    },
+    {
+      "id": "f3faa96e8f7b995b",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-29T23:42:22+00:00"
+    },
+    {
+      "id": "7f0753368b3a8b32",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-29T21:20:47+00:00"
+    },
+    {
+      "id": "417e8ea5f8739dd6",
+      "title": "US interest rates held steady and economy grows - what it means for you",
+      "description": "Open the original article for the full report.",
+      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-29T17:15:05+00:00"
+    },
+    {
+      "id": "fd4d45de8a9ea90f",
+      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "description": "Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.",
+      "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-30T07:33:27+00:00"
+    },
+    {
+      "id": "9c3c4ac7e69b929f",
+      "title": "Scientists discover a secret glow in toxic fire salamanders",
+      "description": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-28T12:11:52+00:00"
+    },
+    {
+      "id": "81abacfefd7ad532",
+      "title": "Scientists discover a hidden 100-million-year-old volcanic system",
+      "description": "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history. The discovery sheds new light on the disappearance of an ancient ocean and the powerful geological forces that reshaped the Middle East.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-28T12:00:17+00:00"
+    },
+    {
+      "id": "23bd72b76781c180",
+      "title": "Ny transformatorstasjon i Kanstadbotn styrker strømnettet i Nordland",
+      "description": "Nye Kanstadbotn transformatorstasjon vil styrke strømnettet i Lofoten, Vesterålen og Harstadområdet og legge til rett for nytt forbruk og produksjon.",
+      "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/ny-transformatorstasjon-i-kanstadbotn-styrker-stromnettet-i-nordland",
+      "source": "Statnett",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-29T09:06:14+00:00"
+    },
+    {
+      "id": "0c62d1b8c05503d7",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-10-28T12:10:00+00:00"
+    }
+  ]
+}
