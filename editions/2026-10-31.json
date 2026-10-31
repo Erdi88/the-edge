@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T10:30:44+00:00",
+  "stories": [
+    {
+      "id": "e29fd7b1eb6398c6",
+      "title": "Benin secures financing for first solar IPP projects",
+      "description": "The €30 million ($33.5 million) financing package goes towards the construction and operation of four PV plants forming part of Benin’s first independent power producer solar project.",
+      "url": "https://www.pv-magazine.com/2026/10/30/benin-secures-financing-for-62-mw-of-solar-across-four-sites",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-30T12:00:00+00:00"
+    },
+    {
+      "id": "940d6e8a1afdde75",
+      "title": "Indian PV at a turning point",
+      "description": "As module manufacturing capacity outpaces domestic demand, India’s solar industry is entering a new phase, where vertical integration, disciplined investment, higher utilization and access to new markets will be critical for sustaining growth.",
+      "url": "https://www.pv-magazine.com/2026/10/31/indian-pv-at-a-turning-point",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-31T05:00:00+00:00"
+    },
+    {
+      "id": "abc5566bda42b5a9",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "description": "But it's still early days for the relatively new e-commerce use case.",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far",
+      "source": "Ars Technica",
+      "category": "Opportunities",
+      "published_at": "2026-10-30T19:30:52+00:00",
+      "original_category": "AI & Technology"
+    },
+    {
+      "id": "42f3da87a2d5718e",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-31T00:07:22+00:00"
+    },
+    {
+      "id": "8f7baac5b5e82429",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-30T23:21:23+00:00"
+    },
+    {
+      "id": "1abfdb6dc9802b6f",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-30T21:52:03+00:00"
+    },
+    {
+      "id": "fbb56d50cc0ff556",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-31T02:39:25+00:00"
+    },
+    {
+      "id": "a5036eccbd99fd74",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "description": "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-30T06:08:22+00:00"
+    },
+    {
+      "id": "89869e161e870da2",
+      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
+      "description": "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people could suffer snake envenoming annually, while more than 800,000 survivors are left with long-term disabilities.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072117.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-30T10:37:00+00:00"
+    },
+    {
+      "id": "4131f32dcc0451ab",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "description": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging.",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-31T04:00:00+00:00"
+    },
+    {
+      "id": "af2b3fa77d334d13",
+      "title": "Letting AI Formulate the Research Question: Autonomous Research Agents",
+      "description": "arXiv:2610.39620v1 Announce Type: new Abstract: Systems such as The AI Scientist have shown that AI agents can carry out and write up research, but in those demonstrations humans chose the research area and selected the outputs to show. We study letting the AI formulate the research question itself, and we report every run.",
+      "url": "https://arxiv.org/abs/2610.39620",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-10-31T04:00:00+00:00"
+    },
+    {
+      "id": "78a59c3a86f90f38",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "description": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-30T22:21:05+00:00"
+    }
+  ]
+}
