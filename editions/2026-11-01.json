@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01T11:25:18+00:00",
+  "stories": [
+    {
+      "id": "de52576d904b45f2",
+      "title": "First Solar cuts sales forecast as tariff uncertainty slows orders",
+      "description": "First Solar reported third-quarter net sales of $1.23 billion and net income of $571 million, as the US thin-film manufacturer navigated customer uncertainty over Section 232 tariffs.",
+      "url": "https://www.pv-magazine.com/2026/10/30/first-solar-cuts-sales-forecast-as-tariff-uncertainty-slows-orders",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-30T16:15:00+00:00"
+    },
+    {
+      "id": "c7a22bf838d00ee4",
+      "title": "Chinese PV Industry Brief: JA Solar’s nine-month loss widens",
+      "description": "JA Solar reported a CNY 3.64 billion ($546.5 million) net loss for the first nine months of 2026, while Tongwei signed 1 GW in solar module cooperation agreements with Australian distributors.",
+      "url": "https://www.pv-magazine.com/2026/10/30/chinese-pv-industry-brief-ja-solars-nine-month-loss-widens",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-10-30T13:15:00+00:00"
+    },
+    {
+      "id": "208850a6ee7c8b55",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "description": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-30T21:41:54+00:00"
+    },
+    {
+      "id": "c8804a79ad56c280",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "description": "People who love AI don't always love telling others they used it.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-30T20:40:13+00:00"
+    },
+    {
+      "id": "362d7951270f2286",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-10-31T21:41:00+00:00"
+    },
+    {
+      "id": "c361ea6e6eba35fb",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "8e8e4f8e579727c9",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-10-30T09:33:51+00:00"
+    },
+    {
+      "id": "f845da07825410f4",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-01T11:03:36+00:00"
+    },
+    {
+      "id": "5803e81c0f869271",
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "description": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-31T04:31:41+00:00"
+    },
+    {
+      "id": "dab446e0cef40ce6",
+      "title": "Scientists discover why chronic back pain feels so personal",
+      "description": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-30T00:26:37+00:00"
+    },
+    {
+      "id": "8b2dde3a8d1bcaae",
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "description": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known boundaries of early-universe physics.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-31T02:09:38+00:00"
+    },
+    {
+      "id": "9c79addb856a9fb1",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-30T17:38:19+00:00"
+    }
+  ]
+}
