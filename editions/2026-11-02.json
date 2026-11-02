@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T12:45:23+00:00",
+  "stories": [
+    {
+      "id": "df3ffaf1250f0c91",
+      "title": "Outer Space debuts solar pavilion with hidden battery storage decking",
+      "description": "Outer Spaces launches with a novel approach to solar and battery energy storage for a home, using horizontal metal packs that are part of the decking.",
+      "url": "https://www.pv-magazine.com/2026/11/02/outer-space-debuts-solar-pavilion-with-hidden-battery-storage-decking",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-02T08:08:55+00:00"
+    },
+    {
+      "id": "a61c82790875986f",
+      "title": "Mach launches Tier-1 autonomous solar mowing solution for utility-scale fleets",
+      "description": "Mach’s factory-integrated hardware and fleet orchestration platform target vegetation management bottlenecks for independent power producers.",
+      "url": "https://www.pv-magazine.com/2026/11/02/mach-launches-tier-1-autonomous-solar-mowing-solution-for-utility-scale-fleets",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-02T08:12:18+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "3615c38e010c6fac",
+      "title": "The agentic web is here",
+      "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-02T09:35:19+00:00"
+    },
+    {
+      "id": "4da51a8d3c864c8d",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-10-30T16:53:49+00:00"
+    },
+    {
+      "id": "d9dd499d127e5d07",
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "description": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-02T11:00:00+00:00"
+    },
+    {
+      "id": "d7106bc5092386d0",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "id": "83f9b7f4ae34ad1f",
+      "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+      "description": "Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-02T11:56:32+00:00"
+    },
+    {
+      "id": "f2de8e72f98519e1",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-02T12:22:10+00:00"
+    },
+    {
+      "id": "d31d9b89f00e2b76",
+      "title": "Physicists created a tiny universe and watched time emerge without a clock",
+      "description": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and contracts, mimicking the Big Bang and a possible Big Crunch.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-30T11:42:36+00:00"
+    },
+    {
+      "id": "fa223b87357f334a",
+      "title": "Scientists confirm global warming is accelerating faster than ever recorded",
+      "description": "Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.35°C per decade, nearly double the average pace observed from 1970 to 2015.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-10-30T03:50:51+00:00"
+    },
+    {
+      "id": "83bb36b05f300edc",
+      "title": "Japan proposes 50-metric-ton trigger for solar panel recycling plans",
+      "description": "A Japanese government study group is weighing rules that would bring almost all conventional solar panels under a new recycling law, while leaving perovskite and flexible modules out for now.",
+      "url": "https://www.pv-magazine.com/2026/11/02/japan-proposes-50-metric-ton-trigger-for-solar-panel-recycling-plans",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-02T12:45:00+00:00"
+    },
+    {
+      "id": "eaf1f7eafd931e3a",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "description": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-01T12:33:13+00:00"
+    }
+  ]
+}
