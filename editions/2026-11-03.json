@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03T12:10:58+00:00",
+  "stories": [
+    {
+      "id": "4d5922dfa4e33bf4",
+      "title": "Hybrid wind-solar-battery plants can power Kazakhstan’s demand growth",
+      "description": "Ember analysis finds that hybrid wind, solar and battery plants could supply electricity at an average cost of $56/MWh in Kazakhstan, compared with $70–170/MWh for new coal, while meeting up to 90% of typical demand.",
+      "url": "https://www.pv-magazine.com/2026/11/03/hybrid-wind-solar-battery-plants-can-power-kazakhstans-demand-growth",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-03T09:54:48+00:00"
+    },
+    {
+      "id": "029d8e128df0049c",
+      "title": "Key takeaways from All Energy Australia 2026",
+      "description": "The outlook for Australia’s renewable energy transition appears positive with supportive government policies and renewable energy targets, a surge in battery installations, and a strong pipeline of grid-scale solar and storage projects helping to fuel confidence.",
+      "url": "https://www.pv-magazine.com/2026/11/03/batteries-are-big-at-all-energy-australia-2026",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-03T11:14:39+00:00"
+    },
+    {
+      "id": "453b18c935cee2e4",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "description": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice.",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-03T10:43:41+00:00"
+    },
+    {
+      "id": "43988feebac4c430",
+      "title": "Raising the quality of insights in agentic analytics",
+      "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "id": "977334dcf0434eb1",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "description": "The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "764552eb8063a8ce",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-03T08:01:00+00:00"
+    },
+    {
+      "id": "d04196ce05d6b26c",
+      "title": "'Quiet quitting' could be hitting the economy - here's why",
+      "description": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-03T11:15:51+00:00"
+    },
+    {
+      "id": "2fe762314e024e09",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-03T10:26:26+00:00"
+    },
+    {
+      "id": "7183e51d05b64dbb",
+      "title": "Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics",
+      "description": "arXiv:2510.12787v5 Announce Type: replace Abstract: We present Ax-Prover, a multi-agent system for automated theorem proving in Lean that can solve problems across diverse scientific domains and operate either autonomously or collaboratively with human experts.",
+      "url": "https://arxiv.org/abs/2510.12787",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-03T05:00:00+00:00"
+    },
+    {
+      "id": "60188e6bd7072540",
+      "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+      "description": "arXiv:2607.07379v2 Announce Type: replace Abstract: Agentic discovery can yield mechanics surrogates with low validation error that nonetheless violate physical requirements. We present Physics-Audited Agentic SciML (PA-SciML), a framework combining large language model agents with physics auditing.",
+      "url": "https://arxiv.org/abs/2607.07379",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-03T05:00:00+00:00"
+    },
+    {
+      "id": "03d354d41a5c1b5c",
+      "title": "Solar PV cuts Spain’s electricity costs by €17.02 billion over 18 months",
+      "description": "A study by Spanish solar association UNEF estimates that solar PV generation reduced Spain’s wholesale electricity costs by €17.02 billion ($19.03 billion) between January 2025 and June 2026. Without solar generation, average daily market prices would have been 86% higher, according to the analysis.",
+      "url": "https://www.pv-magazine.com/2026/11/03/solar-pv-cuts-spains-electricity-costs-by-e17-02-billion-over-18-months",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-03T11:10:01+00:00"
+    },
+    {
+      "id": "6de37cde96377619",
+      "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
+      "description": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down to youthful levels.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-03T00:34:59+00:00"
+    }
+  ]
+}
