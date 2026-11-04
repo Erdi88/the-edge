@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T12:23:23+00:00",
+  "stories": [
+    {
+      "id": "d68f6d7542f8a3d0",
+      "title": "Malaysia’s data center industry gets 500 MW solar, 1 GWh battery storage boost",
+      "description": "A 500 MW solar project paired with a 1 GWh battery storage system is planned in Malaysia to supply renewable electricity to DayOne’s data centers. The project, backed by IOI Corporation and Tenaga Nasional Berhad, will operate under the country’s Corporate Renewable Energy Supply Scheme.",
+      "url": "https://www.pv-magazine.com/2026/11/04/malaysias-data-center-industry-gets-500-mw-solar-1-gwh-battery-storage-boost",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-04T11:01:20+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "368ef634a16f32e1",
+      "title": "Poweroad FLEX-261 series passes dual-standard large-scale fire testing",
+      "description": "Testing was conducted in accordance with UL 9540A and CSA C800 and provides technical evidence to support fire safety assessments for multi-cabinet C&I energy storage installations. POWEROAD has received a CSA Group Letter of Attestation for passing the tests.",
+      "url": "https://www.pv-magazine.com/2026/11/04/poweroad-flex-261-series-passes-dual-standard-large-scale-fire-testing",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-04T10:00:00+00:00"
+    },
+    {
+      "id": "26a6ba9feaca2180",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-03T13:10:00+00:00"
+    },
+    {
+      "id": "6e38c6d82605d622",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "description": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-02T18:05:31+00:00"
+    },
+    {
+      "id": "9427f87f31ac6b74",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-03T21:43:08+00:00"
+    },
+    {
+      "id": "64e891378c13ac06",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "description": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-03T19:34:43+00:00"
+    },
+    {
+      "id": "e4d30dd890d180c8",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "description": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-04T10:47:31+00:00"
+    },
+    {
+      "id": "79d8a4e50f13c9fb",
+      "title": "Swim and gym prices set to rise above inflation",
+      "description": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-04T06:13:19+00:00"
+    },
+    {
+      "id": "ff4610e7efff8b78",
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "description": "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-03T12:15:18+00:00"
+    },
+    {
+      "id": "4e7e468f252ce2e8",
+      "title": "Scientists discover that some “unhealthy” diets can boost cancer immunotherapy in mice",
+      "description": "In a surprising discovery, scientists found that certain diets associated with obesity can make cancer immunotherapy more effective in mice, challenging traditional assumptions about diet and cancer treatment. The findings suggest that the secret may lie in how food interacts with gut bacteria to strengthen the immune system's response to cancer.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072132.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-02T12:13:03+00:00"
+    },
+    {
+      "id": "c2df427809bff9fe",
+      "title": "Lithuania moves to revive renewables growth with sweeping reforms",
+      "description": "Lithuania has approved legislative reforms to accelerate renewable energy development, allowing project extensions of up to 48 months, halving developer guarantees and easing permitting requirements. The measures also aim to speed up grid connections, strengthen infrastructure resilience and tighten energy cybersecurity regulations.",
+      "url": "https://www.pv-magazine.com/2026/11/04/lithuania-moves-to-revive-renewables-growth-with-sweeping-reforms",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-04T09:59:48+00:00"
+    },
+    {
+      "id": "4fef126172098eb9",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-02T13:10:00+00:00"
+    }
+  ]
+}
