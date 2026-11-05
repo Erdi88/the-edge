@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T12:38:16+00:00",
+  "stories": [
+    {
+      "id": "8b66fec94494a103",
+      "title": "Tokyo tests solar-powered hydrogen production at high-rise office complex",
+      "description": "Three Japanese companies are deploying a solar-powered hydrogen production and storage system at a commercial complex in Tokyo. The project combines rooftop photovoltaics, battery storage, hydrogen-absorbing alloys and fuel cells to supply electricity to parts of the building.",
+      "url": "https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-05T09:10:59+00:00"
+    },
+    {
+      "id": "70678a385256e9fe",
+      "title": "Pairing residential heat pumps with potassium carbonate-based thermochemical storage",
+      "description": "U.S. researchers have found that combining residential heat pumps with thermochemical energy storage could reduce electricity demand during cold spells. Improved storage efficiency and heat pump performance could increase the contribution of thermal storage in highly decarbonized power grids.",
+      "url": "https://www.pv-magazine.com/2026/11/05/pairing-residential-heat-pumps-with-potassium-carbonate-based-thermochemical-storage",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-05T10:33:13+00:00"
+    },
+    {
+      "id": "44cd1b0540a7c509",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "description": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one.",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-04T17:31:53+00:00"
+    },
+    {
+      "id": "b3728d332507b620",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-04T13:10:00+00:00"
+    },
+    {
+      "id": "95666940021eb80c",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-04T22:13:16+00:00"
+    },
+    {
+      "id": "554481bd87b76bc6",
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "description": "Titan OS has raised $110 million in funding to date.",
+      "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-04T15:00:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "c5cfc173e64341d8",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "description": "Most analysts expected the increase from 3.75% to 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-05T12:17:47+00:00"
+    },
+    {
+      "id": "67f1c5458144ead3",
+      "title": "Three ways the interest rate rise could affect you",
+      "description": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-05T12:11:04+00:00"
+    },
+    {
+      "id": "57242503914f0d84",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "description": "arXiv:2611.06910v1 Announce Type: new Abstract: AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness.",
+      "url": "https://arxiv.org/abs/2611.06910",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-05T05:00:00+00:00"
+    },
+    {
+      "id": "a6496dfb008fee31",
+      "title": "From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier",
+      "description": "arXiv:2607.07779v4 Announce Type: replace-cross Abstract: Large language models have made rapid progress in generating machine-checked proofs for well-defined mathematical problems. Extending this progress to research mathematics requires more than solving isolated theorems.",
+      "url": "https://arxiv.org/abs/2607.07779",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-05T05:00:00+00:00"
+    },
+    {
+      "id": "cb5cdfe1ad7e161d",
+      "title": "Korean researchers build all-solid battery prototype with 235.13 Wh/L energy density",
+      "description": "Researchers at South Korea's Dongguk University have developed an anode-free all-solid-state thin-film battery featuring an ultrathin tin/carbon interlayer to improve lithium deposition and cycling stability.",
+      "url": "https://www.pv-magazine.com/2026/11/05/korean-researchers-build-all-solid-battery-prototype-with-235-13-wh-l-energy-density",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-05T09:14:07+00:00"
+    },
+    {
+      "id": "bbbcdbc065e7c034",
+      "title": "Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2",
+      "description": "arXiv:2611.06827v1 Announce Type: new Abstract: We study which training and calibration data help three open models solve ARC-AGI-2 tasks when the solver runs offline on four L4 GPUs for at most 12 hours. We compare data offline on public tasks and report 189 runs on the 120 hidden semi-private tasks.",
+      "url": "https://arxiv.org/abs/2611.06827",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-05T05:00:00+00:00"
+    }
+  ]
+}
