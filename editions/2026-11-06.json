@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T12:20:59+00:00",
+  "stories": [
+    {
+      "id": "1d98f79e0daf396d",
+      "title": "World’s largest liquid-air storage facility comes online in China",
+      "description": "China’s 60 MW/600 MWh liquid-air energy storage facility in Qinghai began generating electricity on October 30, marking a major milestone in long-duration energy storage commercialization. The world’s largest grid-connected LAES project offers 10 hours of continuous power output, supporting renewable energy integration with domestically developed technology.",
+      "url": "https://www.pv-magazine.com/2026/11/06/worlds-largest-liquid-air-storage-facility-comes-online-in-china",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-06T11:03:49+00:00"
+    },
+    {
+      "id": "fe33156e76941080",
+      "title": "Türkiye targets 175 GW of solar, wind capacity by 2040",
+      "description": "Türkiye's energy vision for 2040 aims to increase renewables' share of the country's total installed capacity to 77%, from around 63% today.",
+      "url": "https://www.pv-magazine.com/2026/11/06/turkiye-targets-175-gw-of-solar-wind-capacity-by-2040",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-06T09:24:58+00:00"
+    },
+    {
+      "id": "be6b70ec9ad1cda9",
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "description": "Software optimizes a physical model of the telescope to reduce noise.",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-05T19:59:22+00:00"
+    },
+    {
+      "id": "0bb52c4b905431df",
+      "title": "Securing the agentic enterprise with data lineage",
+      "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff.",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "id": "9d929232a4e5752a",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-05T21:15:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "38260cfd19088134",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "description": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-05T17:11:48+00:00"
+    },
+    {
+      "id": "f4b3f4d3a91cf652",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "description": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-06T11:40:35+00:00"
+    },
+    {
+      "id": "e8ecc5bc243f1f9c",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-05T17:40:40+00:00"
+    },
+    {
+      "id": "7cf5ef0793950283",
+      "title": "MIND: AI Co-Scientist for Material Research",
+      "description": "arXiv:2604.13699v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have enabled agentic AI systems for scientific discovery, but most approaches remain limited to textbased reasoning without automated experimental verification. We propose MIND, an LLM-driven framework for automated hypothesis validation in materials research.",
+      "url": "https://arxiv.org/abs/2604.13699",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-06T05:00:00+00:00"
+    },
+    {
+      "id": "6378d95e4d1259aa",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "description": "arXiv:2611.08478v1 Announce Type: new Abstract: AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature.",
+      "url": "https://arxiv.org/abs/2611.08478",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-06T05:00:00+00:00"
+    },
+    {
+      "id": "e4aca25b28aa89dd",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "description": "arXiv:2611.08483v1 Announce Type: new Abstract: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods.",
+      "url": "https://arxiv.org/abs/2611.08483",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-06T05:00:00+00:00"
+    },
+    {
+      "id": "761aa0853d6fc0dd",
+      "title": "Ny strømforbindelse i Narvik styrker strømforsyningen i Nordland",
+      "description": "Det nye 132 kV kabelanlegget over Rombaksfjorden i Narvik er satt i drift. Kabelanlegget vil styrke strømnettet i Narvik, Lofoten, Vesterålen og Harstad-området.",
+      "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/ny-stromforbindelse-i-narvik-styrker-stromforsyningen-i-nordland",
+      "source": "Statnett",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-06T09:00:04+00:00"
+    }
+  ]
+}
