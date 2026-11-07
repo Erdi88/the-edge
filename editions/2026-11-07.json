@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07T11:14:37+00:00",
+  "stories": [
+    {
+      "id": "afce5e735e75107f",
+      "title": "Researchers develop 10.56 kW solar-powered pleasure boat",
+      "description": "Researchers in Canada have designed a solar-powered pleasure boat featuring a 10.56 kW PV array and a 19.68 kWh battery system. Simulations under solar conditions in Cyprus showed that the system could meet propulsion demand while providing a 39.8% surplus energy margin.",
+      "url": "https://www.pv-magazine.com/2026/11/07/researchers-unveil-10-56-kw-solar-powered-pleasure-boat",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T08:00:00+00:00"
+    },
+    {
+      "id": "650cf47ec27d9f2c",
+      "title": "How the Solar+ industries can make better decisions for the energy transition",
+      "description": "This week, Women in Solar+ Europe (WiSEu) shares the lessons from its Solar & Storage Live European tour: why silence puts projects at risk, what turns representation into real influence, and how leaders can make room for challenge, learning and innovation, even under pressure.",
+      "url": "https://www.pv-magazine.com/2026/11/07/how-the-solar-industries-can-make-better-decisions-for-the-energy-transition",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T10:30:00+00:00"
+    },
+    {
+      "id": "7142f0ef7fb76f39",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-06T20:56:41+00:00"
+    },
+    {
+      "id": "415980dff97bdc65",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-06T13:10:00+00:00"
+    },
+    {
+      "id": "d9d8ed120c50cfe2",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-06T22:53:46+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "bb7cfaccfddcb39f",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "description": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-06T16:50:01+00:00"
+    },
+    {
+      "id": "8bd0144092331135",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-07T07:20:00+00:00"
+    },
+    {
+      "id": "1f192bdc02a0d824",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-07T01:41:36+00:00"
+    },
+    {
+      "id": "252069d1c430c905",
+      "title": "Dead stars could break one of physics' most famous limits",
+      "description": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-06T03:11:09+00:00"
+    },
+    {
+      "id": "69b4a1e3893d4d88",
+      "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+      "description": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-05T11:05:46+00:00"
+    },
+    {
+      "id": "9b65215342612d3c",
+      "title": "Portable solar-powered system produces 1.64 liters of drinking water in 8 hours",
+      "description": "Researchers at Soochow University in China have developed a portable solar-powered system that converts saline, turbid and contaminated water into drinking water using an electrothermal evaporator and concentrated sunlight. The device produced 1.64 liters of clean water in eight hours, achieving an energy efficiency of 93.31%.",
+      "url": "https://www.pv-magazine.com/2026/11/07/portable-solar-powered-system-produces-1-64-liters-of-drinking-water-in-8-hours",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T08:30:00+00:00"
+    },
+    {
+      "id": "0ababcff92d31506",
+      "title": "Permanent daylight saving time has a dark side, scientists warn",
+      "description": "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-04T12:50:48+00:00"
+    }
+  ]
+}
