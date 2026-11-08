@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08T11:26:09+00:00",
+  "stories": [
+    {
+      "id": "e012ba3e7bda19a3",
+      "title": "India’s installed solar PV capacity to exceed 350 GW by 2030, says IEA",
+      "description": "Growth will be supported by utility-scale projects, rooftop solar and corporate procurement, although grid and storage investments remain critical.",
+      "url": "https://www.pv-magazine.com/2026/11/07/indias-installed-solar-pv-capacity-to-exceed-350-gw-by-2030-says-iea",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T07:00:00+00:00"
+    },
+    {
+      "id": "522debb6c54c8a5a",
+      "title": "Beyond scale and hardware",
+      "description": "Solar and battery energy storage systems (BESS) have scaled dramatically since 2015, but demand growth is not necessarily translating into better economics for manufacturers, writes Susan Taylor of S&P Global Energy. Solar manufacturers continue to battle overcapacity after years of capacity growth outpacing demand.",
+      "url": "https://www.pv-magazine.com/2026/11/07/beyond-scale-and-hardware",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T05:00:00+00:00"
+    },
+    {
+      "id": "8017ce29f6d88c8d",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "description": "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft...",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-07T18:02:17+00:00"
+    },
+    {
+      "id": "1a0841a1f39d9e8a",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-07T11:00:34+00:00"
+    },
+    {
+      "id": "a67bea44a5c5cfba",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-07T17:24:07+00:00"
+    },
+    {
+      "id": "f30eabe3ae69a985",
+      "title": "Fox completes its $22B acquisition of Roku",
+      "description": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-06T16:05:36+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "90ad238c8c5a0ae4",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "description": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-08T07:11:02+00:00"
+    },
+    {
+      "id": "062a70b67af36c2c",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-07T15:19:35+00:00"
+    },
+    {
+      "id": "0e34e988e4e9a6f2",
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "description": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-08T10:11:25+00:00"
+    },
+    {
+      "id": "474872858153eec4",
+      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+      "description": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-08T04:47:52+00:00"
+    },
+    {
+      "id": "aa421f4e93fd68a0",
+      "title": "Study finds 0.5-meter spacing between solar module rows improves cooling in floating PV systems",
+      "description": "A study by Italian researchers has found that 0.5-meter spacing between module rows optimizes cooling in floating PV systems by improving airflow. The findings highlight the importance of row spacing in thermal management, although further research is needed to assess its impact on electricity generation.",
+      "url": "https://www.pv-magazine.com/2026/11/07/study-finds-0-5-meter-spacing-between-solar-module-rows-improves-cooling-in-floating-pv-systems",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-07T07:30:00+00:00"
+    },
+    {
+      "id": "fcba619a931fe449",
+      "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
+      "description": "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot. The breakthrough could unlock a new way to observe electrons in action and potentially control the ultrafast processes that drive chemical reactions.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-08T03:46:51+00:00"
+    }
+  ]
+}
