@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T13:12:36+00:00",
+  "stories": [
+    {
+      "id": "fa7de47e52002e81",
+      "title": "Dutch residential battery market surges ahead of net metering phaseout",
+      "description": "With the abolition of net metering just weeks away, households are increasingly turning to battery storage to protect the value of their solar energy. New figures from Sunergy Research reveal explosive growth across all battery categories, with plug-in batteries emerging as the market's biggest breakthrough.",
+      "url": "https://www.pv-magazine.com/2026/11/09/dutch-residential-battery-market-surges-ahead-of-net-metering-phaseout",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-09T12:29:30+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "11da7c6cff16bdb1",
+      "title": "Salt-based thermal storage supports renewable steam in Spain",
+      "description": "A renewable steam project at Bayer’s pharmaceutical plant in Spain combines salt-based thermal storage with a 15 MW renewable power purchase agreement (PPA) and 2.5 MW of on-site solar, in an effort to replace fossil fuels used for industrial heat.",
+      "url": "https://www.pv-magazine.com/2026/11/09/salt-based-thermal-storage-supports-renewable-steam-in-spain",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-09T09:22:30+00:00"
+    },
+    {
+      "id": "d74910f5b9354c21",
+      "title": "The climate case for AI has not been made",
+      "description": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action.",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-09T10:00:00+00:00"
+    },
+    {
+      "id": "3b0d1dcb5cae97f7",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "description": "Open the original article for the full report.",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-09T08:17:49+00:00"
+    },
+    {
+      "id": "923f6f9932b2d3a8",
+      "title": "Tesla expands robotaxi service to San Antonio",
+      "description": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-09T11:30:24+00:00"
+    },
+    {
+      "id": "8a86cf9d70b8065c",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "description": "In a memo to the company, Huang admitted that he had an affair.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-08T21:00:11+00:00"
+    },
+    {
+      "id": "aa3a8317433b5331",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-09T10:41:57+00:00"
+    },
+    {
+      "id": "de0c28c9953fb6e7",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-06T21:06:25+00:00"
+    },
+    {
+      "id": "50d63f30bfd22144",
+      "title": "Scientists discover a surprising link between acorns and lyme disease",
+      "description": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-09T10:59:35+00:00"
+    },
+    {
+      "id": "b7a2f4b84df2a343",
+      "title": "Scientists discover stunning new Amazon fish that may already be endangered",
+      "description": "Researchers have discovered a stunning new species of tiny orange-patterned fish in the Brazilian Amazon, but its survival may already be at risk. Named Laimosemion laranja, the brilliantly colored killifish measures less than three centimeters long and was found in just three small forest pools.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104084019.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-08T23:56:14+00:00"
+    },
+    {
+      "id": "a69baba2c985b8e3",
+      "title": "Latvia switches on 174 MW of solar",
+      "description": "Lithuanian developer Ignitis Renewables is now working on building a 107 MW/215 MWh battery energy storage system at the site of its 174 MW solar farm in Latvia, which is one of the largest operational PV projects in the Baltics.",
+      "url": "https://www.pv-magazine.com/2026/11/09/latvia-switches-on-174-mw-of-solar",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-09T08:44:02+00:00"
+    },
+    {
+      "id": "f4af5b1661847f17",
+      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+      "description": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-08T22:45:01+00:00"
+    }
+  ]
+}
