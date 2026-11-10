@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T12:52:22+00:00",
+  "stories": [
+    {
+      "id": "38b28a588f5eb41c",
+      "title": "Japan to assess renewable, storage technologies beyond PV and wind",
+      "description": "Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions.",
+      "url": "https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-10T12:35:00+00:00"
+    },
+    {
+      "id": "b539ce799d1d5f38",
+      "title": "Vietnam increases solar tariffs for 2026, maintains storage premiums",
+      "description": "Vietnam has set 2026 electricity generation price ceilings for ground-mounted solar projects ranging from VND 1,104.32 ($0.04)/kWh in the south to VND 1,591.02/kWh in the north. For floating solar, the maximum prices range from VND 1,340.21/kWh in the south to VND 1,939.74/kWh in the north.",
+      "url": "https://www.pv-magazine.com/2026/11/10/vietnam-increases-solar-tariffs-for-2026-maintains-storage-premiums",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-10T11:12:14+00:00"
+    },
+    {
+      "id": "1041d0c56d06b40f",
+      "title": "Innovating with AI in the special chemicals industry",
+      "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market.",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-09T13:00:00+00:00"
+    },
+    {
+      "id": "7e1488fa308ce7da",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-10T12:15:32+00:00"
+    },
+    {
+      "id": "ba2e50ff998b1f54",
+      "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+      "description": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+      "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-09T17:00:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "320dc636ecb880b5",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-09T19:21:46+00:00"
+    },
+    {
+      "id": "afdc6ec15c3be9fd",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-09T20:20:08+00:00"
+    },
+    {
+      "id": "c67f8109386fc65f",
+      "title": "Anthropic to raise $64bn in major stock market listing",
+      "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-10T12:47:18+00:00"
+    },
+    {
+      "id": "5d3be687b385fb30",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "description": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-09T23:19:35+00:00"
+    },
+    {
+      "id": "74c36340962282eb",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "description": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-10T01:47:34+00:00"
+    },
+    {
+      "id": "7720a6da7a2764af",
+      "title": "Italian startup plans offshore gravity storage projects",
+      "description": "Italian company Sizable Energy is developing a long-duration offshore energy storage system that uses deep-sea brine reservoirs to store electricity, with its first commercial projects planned for Calabria and Sicily and a demonstrator linked to a data center in Naples scheduled for 2027.",
+      "url": "https://www.pv-magazine.com/2026/11/10/italian-startup-plans-offshore-gravity-storage-projects",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-10T11:43:25+00:00"
+    },
+    {
+      "id": "aa0c24a4bfc70983",
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "description": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-10T11:23:18+00:00"
+    }
+  ]
+}
