@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11T12:00:32+00:00",
+  "stories": [
+    {
+      "id": "5b2bd46a52fc68cd",
+      "title": "Huaneng commissions dual-flywheel frequency regulation system, claims China single-unit power record",
+      "description": "China’s Huaneng Group connected a 5.5 MW dual-flywheel energy storage system to the grid at its Lanzhou coal-fired power plant, enhancing frequency regulation capabilities. The system reportedly delivers sub-100-millisecond response times and over 99.5% accuracy, supporting grid stability amid growing renewable energy integration.",
+      "url": "https://www.pv-magazine.com/2026/11/10/huaneng-commissions-dual-flywheel-frequency-regulation-system-claims-china-single-unit-power-record",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-10T13:30:53+00:00"
+    },
+    {
+      "id": "88162ed3275b206c",
+      "title": "Huawei unveils 20 kW all-in-one residential energy storage system",
+      "description": "Huawei has launched the Luterra S2, an all-in-one residential energy storage system combining hybrid inverters, LFP batteries and AI-based energy management. It offers inverter capacities from 3 kW to 20 kW, scalable storage up to 336 kWh and a claimed maximum efficiency of 99%.",
+      "url": "https://www.pv-magazine.com/2026/11/11/huawei-unveils-20-kw-all-in-one-residential-energy-storage-system",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-11T08:37:37+00:00"
+    },
+    {
+      "id": "c86d08502069b5ef",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "description": "The new model is up to twice as successful at some tasks.",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-10T15:00:39+00:00"
+    },
+    {
+      "id": "fc73217409f2e0eb",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "description": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-10T22:35:01+00:00"
+    },
+    {
+      "id": "eb97d369e3e63b4f",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-10T20:47:05+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "5a44252c99a116fa",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-11T01:02:13+00:00"
+    },
+    {
+      "id": "96faa508b0e30813",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-10T14:45:46+00:00"
+    },
+    {
+      "id": "2fb549021d03c7df",
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "description": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-10T16:03:46+00:00"
+    },
+    {
+      "id": "e649ee487306fbe3",
+      "title": "Agent-Guided Discovery of Exchange-Correlation Functionals with Physics-based Validation",
+      "description": "arXiv:2611.13329v1 Announce Type: new Abstract: Accurate, compact exchange--correlation functionals are central to predictive density functional theory.",
+      "url": "https://arxiv.org/abs/2611.13329",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-11T05:00:00+00:00"
+    },
+    {
+      "id": "7cbe516dd8f1d6f6",
+      "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+      "description": "arXiv:2610.30468v3 Announce Type: replace-cross Abstract: Scientific discovery requires more than generating hypotheses: ideas must be grounded in prior work, translated into executable methods, experimentally validated, challenged by counterevidence, and communicated through reproducible findings.",
+      "url": "https://arxiv.org/abs/2610.30468",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-11T05:00:00+00:00"
+    },
+    {
+      "id": "cb9be322ce285acf",
+      "title": "Cbus completes ‘solar skin’ to help power new 48-storey office tower",
+      "description": "One of Australia’s first large-scale building-integrated solar façades is now complete with the last of almost 1,400 PV panels installed across a new commercial office tower in Melbourne’s CBD.",
+      "url": "https://www.pv-magazine.com/2026/11/11/cbus-completes-solar-skin-to-help-power-new-48-storey-office-tower",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-11T06:57:51+00:00"
+    },
+    {
+      "id": "d949ba45c8480cf5",
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "description": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-11T02:21:13+00:00"
+    }
+  ]
+}
