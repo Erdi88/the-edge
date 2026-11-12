@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T13:03:50+00:00",
+  "stories": [
+    {
+      "id": "b0966735a0a97749",
+      "title": "Sweden plans new inverter and battery database",
+      "description": "Sweden plans to launch a voluntary database for solar inverters, battery storage systems and bidirectional EV charging equipment in 2027, replacing its existing pre-assessment system for new listings. The database will provide standardized technical documentation to support grid connection assessments by network operators.",
+      "url": "https://www.pv-magazine.com/2026/11/12/sweden-plans-new-inverter-and-battery-database",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-12T12:47:52+00:00"
+    },
+    {
+      "id": "aec19cfaa33d041f",
+      "title": "Kazakhstan proposes new PPA mechanism to reduce offtake risks, plans storage auctions",
+      "description": "Kazakhstan is proposing a new mechanism allowing renewable energy generators to sell electricity to the country's single buyer after at least 36 months under bilateral contracts. The measure aims to reduce offtake risks, improve revenue certainty and make projects more attractive to investors and lenders.",
+      "url": "https://www.pv-magazine.com/2026/11/12/kazakhstan-proposes-new-ppa-mechanism-to-reduce-offtake-risks-plans-storage-auctions",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-12T11:10:48+00:00"
+    },
+    {
+      "id": "bb27561db5d10d50",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "description": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-11T18:16:40+00:00"
+    },
+    {
+      "id": "78b8986836f7bb24",
+      "title": "AWS emulator",
+      "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...https://www.allthingsdistributed.com/2026/11/aws-emulator-an...",
+      "url": "https://github.com/aws/aws-emulator",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-11T18:21:38+00:00"
+    },
+    {
+      "id": "bed7979fe4378809",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-11T16:14:44+00:00"
+    },
+    {
+      "id": "3b53bf6090ab9868",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-10T21:08:52+00:00"
+    },
+    {
+      "id": "1b127e2f67ca793c",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "description": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-12T11:20:25+00:00"
+    },
+    {
+      "id": "d37ec91a150290a5",
+      "title": "Gas bills to rise as Middle East turmoil persists",
+      "description": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-12T06:15:36+00:00"
+    },
+    {
+      "id": "16e3754d888626c6",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "description": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-12T01:45:09+00:00"
+    },
+    {
+      "id": "2e12c6f9a47fc558",
+      "title": "Scientists discover that necks didn't evolve for the reason we thought",
+      "description": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals turn their heads, necks may have emerged as part of the anatomical changes that allowed them to move using their front limbs.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-11T23:49:03+00:00"
+    },
+    {
+      "id": "f91231acc4764e73",
+      "title": "Longi launches new products for the Australian market",
+      "description": "At All Energy Australia, LONGi unveiled new solar PV modules and showcased the company’s energy storage products. Brett Robinson, senior manager for LONGi Solar Australia, says the new X12 module is well-suited for the country’s compact roofs.",
+      "url": "https://www.pv-magazine.com/2026/11/12/longi-launches-new-products-for-the-australian-market",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-12T10:00:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "1e2d7b9998cc9ff1",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "description": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-11T17:37:32+00:00"
+    }
+  ]
+}
