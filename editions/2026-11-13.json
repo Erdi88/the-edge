@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T12:29:12+00:00",
+  "stories": [
+    {
+      "id": "b5751cf766793ab9",
+      "title": "Türkiye, China sign $15 billion renewables investment plan",
+      "description": "The deal, signed as COP31 continues, plans to cover 7 GW of solar and wind power plants, energy storage systems and 4 GW of electricity transmission infrastructure.",
+      "url": "https://www.pv-magazine.com/2026/11/13/turkiye-china-sign-15-billion-renewables-investment-plan",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-13T08:50:06+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "f59fec7040a5228b",
+      "title": "Dark clouds gather over Germany’s solar sector",
+      "description": "Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail to push through reforms to Germany's Renewable Energy Sources Act (EEG) in time, according to Martin Schachinger of pvXchange.",
+      "url": "https://www.pv-magazine.com/2026/11/13/dark-clouds-gather-over-germanys-solar-sector",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-13T11:11:08+00:00"
+    },
+    {
+      "id": "050a472a1b93712f",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "description": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.”",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-13T10:00:00+00:00"
+    },
+    {
+      "id": "0b5401a8842f0b62",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.”",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-12T20:16:24+00:00"
+    },
+    {
+      "id": "4a496b32dce8dcb7",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-12T18:39:23+00:00"
+    },
+    {
+      "id": "41ad83e0a8414018",
+      "title": "Whoop just launched a social network",
+      "description": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-12T16:00:00+00:00"
+    },
+    {
+      "id": "5942e4df535d0943",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "description": "The UK is seeing impressive growth, but will it last?",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-12T13:27:09+00:00"
+    },
+    {
+      "id": "f83f812563eb29b6",
+      "title": "What we know about the global Microsoft outage",
+      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-13T12:09:57+00:00"
+    },
+    {
+      "id": "ed3d344d6200cc1b",
+      "title": "Crows can make decisions twice as fast as humans, scientists discover",
+      "description": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-12T12:17:19+00:00"
+    },
+    {
+      "id": "88e092b2296797e7",
+      "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+      "description": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by side.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-12T10:47:43+00:00"
+    },
+    {
+      "id": "2259c736c0cb27f6",
+      "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
+      "description": "Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance.",
+      "url": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-13T10:37:49+00:00"
+    },
+    {
+      "id": "0ae85af8a10f9f98",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "description": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future.",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-13T10:00:00+00:00"
+    }
+  ]
+}
