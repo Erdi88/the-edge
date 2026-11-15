@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T12:08:27+00:00",
+  "stories": [
+    {
+      "id": "3542e09be0646de5",
+      "title": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+      "description": "New specs for CATL’s four-hour sodium-ion battery reveal how the company will market the product for cost benefits over LFP-based batteries. International deliveries are due to begin in summer 2027.",
+      "url": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-14T08:30:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "387f41029da15e32",
+      "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency",
+      "description": "South Korean solar manufacturer Shinsung E&G has introduced new n-type TOPCon solar modules for ground-mounted, floating PV and agrivoltaic applications. The bifacial panels feature power outputs ranging from 640 W to 650 W and maximum conversion efficiencies of 23.25%.",
+      "url": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-13T15:41:22+00:00"
+    },
+    {
+      "id": "5e606231a9fd6a9d",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "description": "Open the original article for the full report.",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-15T04:39:25+00:00"
+    },
+    {
+      "id": "05648108c87680dd",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "description": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-13T21:20:47+00:00"
+    },
+    {
+      "id": "238432e278b3a037",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-14T17:30:00+00:00"
+    },
+    {
+      "id": "49f0b0840b1ef26a",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-13T19:37:57+00:00"
+    },
+    {
+      "id": "59d35bd98e0729bd",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-13T23:00:31+00:00"
+    },
+    {
+      "id": "c397a88bd18fc3c0",
+      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-15T11:06:32+00:00"
+    },
+    {
+      "id": "66f3727573e1cef1",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "description": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-14T12:48:01+00:00"
+    },
+    {
+      "id": "c5e0030709caed3c",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "description": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-14T12:25:05+00:00"
+    },
+    {
+      "id": "b29a6b7f888b214f",
+      "title": "Scientists discover a bizarre paradox among endangered penguins",
+      "description": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-15T03:42:52+00:00"
+    },
+    {
+      "id": "95b7b195652a2b76",
+      "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+      "description": "Researchers in China have investigated a previously overlooked degradation mechanism in copper-plated heterojunction solar cells caused by screen-printed photoresist. They found that progressive wear of the screen mesh can damage the cells' passivation layers and reduce efficiency.",
+      "url": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-14T10:55:00+00:00"
+    }
+  ]
+}
