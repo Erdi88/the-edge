@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T13:43:06+00:00",
+  "stories": [
+    {
+      "id": "26e75cb4fcfad445",
+      "title": "Havells unveils battery energy storage systems",
+      "description": "Havells India showcased its battery energy storage systems (BESS) at the REI Expo 2026, highlighting its energy storage solutions as part of its broader renewable energy portfolio, which also includes hybrid inverters, EV chargers, solar inverters and modules.",
+      "url": "https://www.pv-magazine.com/2026/11/17/havells-unveils-battery-energy-storage-systems",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-17T07:12:41+00:00"
+    },
+    {
+      "id": "4bc0a1346bbdee5d",
+      "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
+      "description": "Amazon also announced four new utility-scale wind and solar projects with a combined total capacity of 934 MW in India. The projects have been secured through power purchase agreements (PPAs) and are part of Amazon’s existing $4 billion contracted projects in India.",
+      "url": "https://www.pv-magazine.com/2026/11/17/amazon-to-invest-7-billion-in-renewable-energy-in-india-by-2030",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-17T12:37:38+00:00"
+    },
+    {
+      "id": "7f59634912f807d8",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "description": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-16T19:10:09+00:00"
+    },
+    {
+      "id": "d1436b6477306116",
+      "title": "Building AI that can work across the enterprise",
+      "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-16T13:00:00+00:00"
+    },
+    {
+      "id": "c189de8bd0739763",
+      "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "description": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-16T16:06:30+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "fe023ceca2fe56df",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-16T23:32:32+00:00"
+    },
+    {
+      "id": "02f09a3f2c48291e",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-17T13:02:17+00:00"
+    },
+    {
+      "id": "89bda0a6ba949d53",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-17T11:58:16+00:00"
+    },
+    {
+      "id": "b4f7444234143e65",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "description": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-17T12:14:04+00:00"
+    },
+    {
+      "id": "479263f7ac063934",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "description": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-17T12:03:58+00:00"
+    },
+    {
+      "id": "369715baf93b1223",
+      "title": "German companies develop safety concept for inverter-free plug-in battery storage",
+      "description": "The proposed system combines cell-level power electronics with real-time circuit monitoring to prevent household wiring from overheating. Each module will offer 2 kWh to 5 kWh of storage capacity, with integrated grid protection and emergency power functionality.",
+      "url": "https://www.pv-magazine.com/2026/11/17/german-companies-develop-safety-concept-for-inverter-free-plug-in-battery-storage",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-17T12:04:02+00:00"
+    },
+    {
+      "id": "9ed8c032dbcdf137",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-16T16:04:28+00:00"
+    }
+  ]
+}
