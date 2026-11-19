@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T13:41:57+00:00",
+  "stories": [
+    {
+      "id": "bb52d8f3c4bb40ee",
+      "title": "Solyco unveils 485 W full-black residential solar module with stainless steel protection",
+      "description": "The German manufacturer's new glass-glass solar panel features back-contact cells, a power conversion efficiency of 23.8% and a bifaciality factor of approximately 70%. It comes with a 30-year product warranty and an 88.85% power output guarantee after 30 years.",
+      "url": "https://www.pv-magazine.com/2026/11/19/solyco-unveils-485-w-full-black-residential-solar-module-with-stainless-steel-protection",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-19T12:39:08+00:00"
+    },
+    {
+      "id": "985ecd8994d39b76",
+      "title": "Indonesia could reach 96.7 GW of solar by 2029 with policy reforms",
+      "description": "IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but warns regulatory and grid barriers need to be addressed.",
+      "url": "https://www.pv-magazine.com/2026/11/19/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-19T08:49:07+00:00"
+    },
+    {
+      "id": "3ce21c9c1e9d58d8",
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "description": "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073.",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-18T16:53:42+00:00"
+    },
+    {
+      "id": "e7c4908e584f5e82",
+      "title": "The AI Hype Index: AI is everywhere",
+      "description": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-18T14:42:44+00:00"
+    },
+    {
+      "id": "591236888382df2b",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-18T22:58:11+00:00"
+    },
+    {
+      "id": "9cd84c2455ae281d",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-18T22:11:15+00:00"
+    },
+    {
+      "id": "787ec3ea015eb548",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-19T10:48:04+00:00"
+    },
+    {
+      "id": "f93ed37b5789392d",
+      "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+      "description": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
+      "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-19T10:32:10+00:00"
+    },
+    {
+      "id": "517d5cd4b2c7811f",
+      "title": "Colombo: A Frontier-to-Frontier Autoresearch System for Oracle-Based Optimization",
+      "description": "arXiv:2611.23080v1 Announce Type: new Abstract: Science advances from frontier to frontier as discoveries reshape what is known and create the basis for further discovery. We present Colombo, a self-organizing AI researcher that drives this renewal, first instantiated in oracle-based optimization.",
+      "url": "https://arxiv.org/abs/2611.23080",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-19T05:00:00+00:00"
+    },
+    {
+      "id": "a493da23fc400a7f",
+      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+      "description": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-19T11:13:29+00:00"
+    },
+    {
+      "id": "5fc00e6251daef23",
+      "title": "Inventa: Decentralized Self-Improving Agents for Autonomous Scientific Discovery",
+      "description": "arXiv:2611.21847v1 Announce Type: cross Abstract: Large language model (LLM) agents can generate research ideas and improve scientific discovery through iterative experimentation. However, increasing the number of agents or iterations does not automatically translate to producing more diverse or feasible ideas.",
+      "url": "https://arxiv.org/abs/2611.21847",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-19T05:00:00+00:00"
+    },
+    {
+      "id": "24821c8ad8a0dd09",
+      "title": "MicroQuanta achieves world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
+      "description": "The result was certified by the National PV Industry Measurement and Testing Center (NPVM) of China’s Fujian Metrology Institute.",
+      "url": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-19T13:31:19+00:00"
+    }
+  ]
+}
