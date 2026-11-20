@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T13:25:05+00:00",
+  "stories": [
+    {
+      "id": "15bcf698886a32a1",
+      "title": "Proper Voltage, Unigrid unveil sodium-ion storage solution for data centers",
+      "description": "The Salt Vault High Power cabinet aims to deliver some of the benefits of sodium-ion chemistries including the concept that rapid and repeated power transients may not degrade sodium-ion batteries as fast as lithium and lead-acid.",
+      "url": "https://www.pv-magazine.com/2026/11/20/proper-voltage-unigrid-unveil-sodium-ion-storage-solution-for-data-centers",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-20T11:11:19+00:00"
+    },
+    {
+      "id": "061260099ee005a4",
+      "title": "Mexico’s solar capacity could reach 43.8 GW by 2035",
+      "description": "GlobalData has raised its solar growth forecast for Mexico by 6 GW, citing a growing pipeline of renewable energy projects. However, grid congestion, transmission constraints and regulatory uncertainty could slow deployment.",
+      "url": "https://www.pv-magazine.com/2026/11/20/mexicos-solar-capacity-could-reach-43-8-gw-by-2035",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-20T08:24:09+00:00"
+    },
+    {
+      "id": "eaecd34f2a6c3727",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-19T20:19:28+00:00"
+    },
+    {
+      "id": "09acf103cb712328",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "description": "\"Project Suncatcher is a long-term moonshot.\"",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-19T19:52:54+00:00"
+    },
+    {
+      "id": "0b91c53826027566",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-20T13:21:11+00:00"
+    },
+    {
+      "id": "a01e91531918f8e7",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "4cbea02f2f1beed2",
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "description": "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-20T06:00:33+00:00"
+    },
+    {
+      "id": "068c8774918ba656",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-19T23:52:25+00:00"
+    },
+    {
+      "id": "d56f10b2c0ec1a72",
+      "title": "Prior Knowledge or Search? A Study of LLM Agents in Hardware-Aware Code Optimization",
+      "description": "arXiv:2605.19782v2 Announce Type: replace Abstract: LLM discovery and optimization systems are increasingly applied across domains, implementing a common propose-evaluate-revise loop. Such optimization or discovery progresses via context conditioning on received feedback from an environment.",
+      "url": "https://arxiv.org/abs/2605.19782",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "9919842f8d32cc2e",
+      "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+      "description": "arXiv:2611.23702v1 Announce Type: new Abstract: The growing volume of topically similar papers makes it difficult to identify new work that can offer useful research insights or methodological guidance. We present KnowMe Paper Radar, a lightweight discovery tool that combines multiple sources of evidence into personalized reading priorities.",
+      "url": "https://arxiv.org/abs/2611.23702",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    },
+    {
+      "id": "5379aa23c4d68c7a",
+      "title": "$64 solar-powered robot cleans PV modules without water",
+      "description": "Researchers in Pakistan and China have developed an autonomous PV cleaning system that uses voltage differences between reference panels to detect soiling. Three months of field testing showed an 86.7% increase in power output after cleaning, with cleaning intervals ranging from four to 14 days.",
+      "url": "https://www.pv-magazine.com/2026/11/20/64-solar-powered-robot-cleans-pv-modules-without-water",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-20T07:53:55+00:00"
+    },
+    {
+      "id": "817a8c159861139c",
+      "title": "Auditing Path-Specific Fairness Across Causal Discovery Algorithms: A Heart Failure Case Study",
+      "description": "arXiv:2603.15926v2 Announce Type: replace-cross Abstract: Causal discovery is increasingly applied to healthcare data, where the recovered relationships can encode biased pathways that propagate to downstream prediction.",
+      "url": "https://arxiv.org/abs/2603.15926",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-20T05:00:00+00:00"
+    }
+  ]
+}
