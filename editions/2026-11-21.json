@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T12:53:30+00:00",
+  "stories": [
+    {
+      "id": "476abb9e2ec3212a",
+      "title": "Spain approves new data center rules requiring 80% renewable electricity",
+      "description": "The new framework introduces energy and water efficiency standards, renewable electricity procurement obligations, and grid flexibility requirements for data centers. A €17.14 billion transmission network plan will support 47.4 GW of new electricity demand through 2030.",
+      "url": "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-21T08:00:00+00:00"
+    },
+    {
+      "id": "08067f0fdb4d37b8",
+      "title": "Unigrid looks to fill gaps in lithium-ion storage with effective sodium-ion alternatives",
+      "description": "CEO Darren Tan says sodium-ion batteries can compete on safety, performance and price in key market segments.",
+      "url": "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-21T08:30:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "6691469f1dc34a79",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-20T18:15:15+00:00"
+    },
+    {
+      "id": "71a47100a2d8b45a",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "description": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-20T22:16:51+00:00"
+    },
+    {
+      "id": "06ba43120c6e046c",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-21T04:00:00+00:00"
+    },
+    {
+      "id": "98001fcd04fee053",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-20T19:53:41+00:00"
+    },
+    {
+      "id": "53ba164e0140f69f",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-20T22:42:47+00:00"
+    },
+    {
+      "id": "50da3b38d638e680",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-20T16:41:52+00:00"
+    },
+    {
+      "id": "64dc9c41f612e6c1",
+      "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+      "description": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-19T03:11:22+00:00"
+    },
+    {
+      "id": "b87dfb2c8aa34617",
+      "title": "Is free will an illusion? New brain research reveals a surprising twist",
+      "description": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-19T01:21:35+00:00"
+    },
+    {
+      "id": "b04411f2686916bf",
+      "title": "Enphase highlights new batteries, bidirectional charging",
+      "description": "Enphase is rolling out residential and commercial storage, meter-collared vehicle-to-grid charging, and a medium-voltage solid-state transformer.",
+      "url": "https://www.pv-magazine.com/2026/11/20/enphase-highlights-new-batteries-bidirectional-charging-and-800-vdc-sst-gear",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-20T13:49:45+00:00"
+    },
+    {
+      "id": "ff62a6d0a83feae4",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "description": "Google search is making it even easier to access AI tools on the search page.",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-20T21:58:29+00:00"
+    }
+  ]
+}
