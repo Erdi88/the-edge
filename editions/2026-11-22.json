@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T12:46:24+00:00",
+  "stories": [
+    {
+      "id": "d9db671286b0f326",
+      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
+      "description": "An international energy storage cooperation initiative backed by 27 companies and institutions has been formally launched at the UN climate conference in Turkey.",
+      "url": "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-21T09:30:00+00:00"
+    },
+    {
+      "id": "cb1c972744cfaa26",
+      "title": "Celebrating men, challenging stereotypes, building a stronger energy future together",
+      "description": "On International Men's Day, and as Movember raises awareness of men's health and wellbeing, Women in Solar+ Europe (WiSEu) and Solar+ Leaders celebrate the men across the solar and wider energy transition industries who are helping build a more inclusive future.",
+      "url": "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-21T09:00:00+00:00"
+    },
+    {
+      "id": "66eae4612900f2e7",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "description": "Meta is “re-evaluating” 2030 sustainability goals.",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-20T21:47:10+00:00"
+    },
+    {
+      "id": "f22d46a83ecd25c4",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-20T20:59:08+00:00"
+    },
+    {
+      "id": "f2e0e504895b9fb3",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-21T16:00:00+00:00"
+    },
+    {
+      "id": "044fb7804e00ac8e",
+      "title": "A tale of two Nvidias",
+      "description": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-21T21:07:42+00:00"
+    },
+    {
+      "id": "d74ec7a6cac5cfb4",
+      "title": "Could you spot a fake banknote?",
+      "description": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
+      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-20T15:40:40+00:00"
+    },
+    {
+      "id": "8febbadd7da71c0f",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-19T23:33:51+00:00"
+    },
+    {
+      "id": "a396921147c7e1a2",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "description": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-21T15:09:46+00:00"
+    },
+    {
+      "id": "d2be18beb18d3c7c",
+      "title": "Even scientists can't agree on what science actually is",
+      "description": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-21T13:55:11+00:00"
+    },
+    {
+      "id": "52250b93bbec613a",
+      "title": "Scientists say the human family tree may need a radical rewrite",
+      "description": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-21T13:44:55+00:00"
+    },
+    {
+      "id": "bcb09ad7fc2edadb",
+      "title": "China grid-connects world’s first artificial-cavern CAES plant",
+      "description": "The 300 MW/1.8 GWh project uses excavated hard-rock chambers, expanding compressed-air storage options beyond natural salt caverns.",
+      "url": "https://www.pv-magazine.com/2026/11/20/china-grid-connects-worlds-first-artificial-cavern-caes-plant",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-20T14:43:16+00:00",
+      "original_category": "Energy & Power Markets"
+    }
+  ]
+}
