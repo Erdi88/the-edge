@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T15:08:05+00:00",
+  "stories": [
+    {
+      "id": "efd70c19a1475b6f",
+      "title": "Lebanon looks to ramp up solar, storage deployments",
+      "description": "Lebanon is working towards adding at least 3 GW of electricity generation capacity in the coming years, most of which is expected to come from solar and wind, alongside battery energy storage.",
+      "url": "https://www.pv-magazine.com/2026/11/23/lebanon-looks-to-ramp-up-solar-storage-deployments",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-23T12:09:36+00:00"
+    },
+    {
+      "id": "007fd1043f55e38f",
+      "title": "Ten innovative renewable energy startups give their pitch at RE+",
+      "description": "California-based fault-detection startup Magnefy won the fifth annual RE+ Startup Pitch Competition, beating out nine other clean energy finalists tackling challenges in solar robotics, grid cybersecurity, EV charging, and data center power.",
+      "url": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-23T05:40:55+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "c3079baa07ae12d8",
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "description": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-23T12:00:00+00:00"
+    },
+    {
+      "id": "27a6b6af092d6a67",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "description": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-23T14:10:18+00:00"
+    },
+    {
+      "id": "f623141117fe3174",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-23T14:43:03+00:00"
+    },
+    {
+      "id": "df47a366418459d4",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "description": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. The option, which uses the front camera of the Uber driver’s phone to record the entire drive, will show up as “Recorded Rides” in the app.",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-23T14:00:00+00:00"
+    },
+    {
+      "id": "e034c2f6f9648e81",
+      "title": "Money Box",
+      "description": "The money stolen by criminals through fake investments doubles in just two years.",
+      "url": "https://www.bbc.co.uk/sounds/play/m0034lmq?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-21T12:30:00+00:00"
+    },
+    {
+      "id": "c21768189b7cd320",
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "description": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-23T14:54:03+00:00"
+    },
+    {
+      "id": "264d1f47a08ee87b",
+      "title": "Potential emergence in LLM agents: a statistical physics perspective",
+      "description": "arXiv:2611.27618v1 Announce Type: cross Abstract: There has been significant recent interest in understanding the behaviour of LLM agents from the perspective of human preferences or corpus statistics. In this paper we propose agent states as intermediate variables through which post-training can be measured and predicted.",
+      "url": "https://arxiv.org/abs/2611.27618",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-23T05:00:00+00:00"
+    },
+    {
+      "id": "1afc5db13dcf50e7",
+      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+      "description": "arXiv:2611.03713v2 Announce Type: replace Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Physicists call such a trial form an ansatz.",
+      "url": "https://arxiv.org/abs/2611.03713",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-23T05:00:00+00:00"
+    },
+    {
+      "id": "ed33744fa304a8d8",
+      "title": "Wind-driven spray system cools, cleans solar panels",
+      "description": "Researchers have developed a water spray system that cools and cleans PV modules using a wind turbine coupled directly to a mechanical pump. In rooftop tests, the system lowered cell temperature by up to 26.7 C and increased peak power output by 18.6%.",
+      "url": "https://www.pv-magazine.com/2026/11/23/wind-driven-spray-system-cools-cleans-solar-panels",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-23T12:00:00+00:00"
+    },
+    {
+      "id": "3fb97c1ba519e6a4",
+      "title": "When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\\ell_1$-norm Lower Bounds",
+      "description": "arXiv:2605.06615v2 Announce Type: replace-cross Abstract: Sign-based optimization algorithms, such as SignSGD and Muon, have garnered significant attention for their remarkable performance in training large foundation models.",
+      "url": "https://arxiv.org/abs/2605.06615",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-23T05:00:00+00:00"
+    }
+  ]
+}
