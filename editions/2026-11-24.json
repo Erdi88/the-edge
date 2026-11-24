@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T15:06:13+00:00",
+  "stories": [
+    {
+      "id": "4b9bdaebe4d54bd5",
+      "title": "Differ Power unveils ‘9-in-1’ solar-storage heat pump",
+      "description": "The Chinese company has developed a residential heat pump system integrating a 6 kW hybrid inverter and supporting battery storage. The propane-based system comes in three versions with heating capacities ranging from 12 kW to 16 kW and can deliver hot water at temperatures of up to 75 C.",
+      "url": "https://www.pv-magazine.com/2026/11/24/differ-power-unveils-9-in-1-solar-storage-heat-pump",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-24T12:29:38+00:00"
+    },
+    {
+      "id": "68bcd121a8712506",
+      "title": "Cyprus plans to deploy over 300 MW of battery storage",
+      "description": "With Cyprus having more than 1 GW of installed solar capacity against average electricity demand of around 650 MW, its government is looking to accelerate storage deployment to address rising solar curtailment and improve grid flexibility.",
+      "url": "https://www.pv-magazine.com/2026/11/24/cyprus-plans-to-deploy-over-300-mw-of-battery-storage",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-24T11:15:00+00:00"
+    },
+    {
+      "id": "44bd775b8ffe162a",
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-24T12:30:05+00:00"
+    },
+    {
+      "id": "844d129947da948b",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness",
+      "source": "MIT Technology Review",
+      "category": "AI & Technology",
+      "published_at": "2026-11-24T13:10:00+00:00"
+    },
+    {
+      "id": "876aad68c91f878f",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "source": "TechCrunch",
+      "category": "Opportunities",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "original_category": "Business & Startups"
+    },
+    {
+      "id": "ea39f8a43a60b7b5",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-23T21:25:42+00:00"
+    },
+    {
+      "id": "f6d36288d7834960",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-23T17:14:50+00:00"
+    },
+    {
+      "id": "9194ddb079718aec",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "description": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-23T16:12:35+00:00"
+    },
+    {
+      "id": "23722000ee2369d6",
+      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+      "description": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-24T10:24:43+00:00"
+    },
+    {
+      "id": "033d22728b37c286",
+      "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+      "description": "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed. A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of millions of years to catch up.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-24T01:36:51+00:00"
+    },
+    {
+      "id": "ab257edc9b16cde0",
+      "title": "Felicity Solar showcases 20 kWh low-voltage residential battery",
+      "description": "The Chinese manufacturer’s new lithium iron phosphate battery features a maximum charging power of 10.2 kW, a maximum discharging power of 12.8 kW, and a depth of discharge of 95%. Up to 15 units can be connected in parallel for a total storage capacity of 300 kWh.",
+      "url": "https://www.pv-magazine.com/2026/11/24/felicity-solar-showcases-20-kwh-low-voltage-residential-battery",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-24T12:47:08+00:00"
+    },
+    {
+      "id": "e80f6ff9a249b485",
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "description": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-24T12:00:57+00:00"
+    }
+  ]
+}
