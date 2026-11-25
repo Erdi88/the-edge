@@ -52,9 +52,24 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m "Publish daily edition"
           git push
-  deploy:
+  build:
     needs: [test, update]
     if: always() && needs.test.result == 'success' && (needs.update.result == 'success' || needs.update.result == 'skipped')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v6
+      - name: Package public files
+        run: python build_site.py
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+  deploy:
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -67,13 +82,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - uses: actions/configure-pages@v6
-      - name: Package public files
-        run: python build_site.py
-      - uses: actions/upload-pages-artifact@v5
-        with:
-          path: _site
       - id: deployment
         uses: actions/deploy-pages@v5
       - name: Verify public website
-        run: python verify.py --root _site --live "${{ steps.deployment.outputs.page_url }}"
+        run: |
+          python build_site.py
+          python verify.py --root _site --live "${{ steps.deployment.outputs.page_url }}"
