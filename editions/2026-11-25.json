@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T10:02:33+00:00",
+  "stories": [
+    {
+      "id": "6d3b487553279e9d",
+      "title": "Researchers test new tech to help bring solar and storage to apartments",
+      "description": "An AI-powered energy system is being installed at an apartment complex in Sydney’s south as part of a $1.2 million project designed to expand access to rooftop solar and battery storage for Australians living in apartments.",
+      "url": "https://www.pv-magazine.com/2026/11/25/researchers-test-new-tech-to-help-bring-solar-and-storage-to-apartments",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-25T06:59:53+00:00"
+    },
+    {
+      "id": "11407240a43876d6",
+      "title": "Algeria’s solar capacity surpasses 1 GW",
+      "description": "Analysis by Rystad Energy finds that Algeria has added 760 MW of solar capacity this year following the commissioning of three major projects. International financing, grid expansion and regular procurement rounds will be key to achieving its 15 GW renewables target by 2035.",
+      "url": "https://www.pv-magazine.com/2026/11/24/algerias-solar-capacity-surpasses-1-gw",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-24T13:45:31+00:00"
+    },
+    {
+      "id": "ecc1858996f77b7f",
+      "title": "How brewers can protect beers from smoke-tainted hops",
+      "description": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
+      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-24T18:18:37+00:00"
+    },
+    {
+      "id": "3d9795e0b578488b",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "description": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-24T17:34:34+00:00"
+    },
+    {
+      "id": "977f9f016cc6ca5b",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-24T21:19:52+00:00"
+    },
+    {
+      "id": "7992bf690613aecd",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-24T18:30:42+00:00"
+    },
+    {
+      "id": "47d7ee8eb179fd71",
+      "title": "Interest rate affect on Guernsey's housing market",
+      "description": "As interest rates rise, we look at the impact this could have on Guernsey's housing market.",
+      "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-25T09:56:33+00:00"
+    },
+    {
+      "id": "762ce6d7fedd6d19",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "description": "The verdict follows a months-long trial in New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-25T02:59:27+00:00"
+    },
+    {
+      "id": "8905f67bb6ffa64b",
+      "title": "A galactic shock wave could rewrite the map of the Milky Way",
+      "description": "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot. Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-23T11:41:39+00:00"
+    },
+    {
+      "id": "a1d880790c96ed7d",
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "description": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-22T21:35:19+00:00"
+    },
+    {
+      "id": "08df1c6e0f0aa761",
+      "title": "Gokin Solar launches 510 W all-black BC panel with 25.0% efficiency",
+      "description": "The Chinese manufacturer’s new double-glass, all-black modules are designed for high-end rooftop applications across Europe. They feature a temperature coefficient of -0.26% per C and a 30-year linear power output guarantee.",
+      "url": "https://www.pv-magazine.com/2026/11/24/gorkin-solar-launches-510-w-all-black-bc-panel-with-25-0-efficiency",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-24T13:30:17+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "be54e905a796b4ce",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-25T00:38:01+00:00"
+    }
+  ]
+}
