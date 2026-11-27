@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T14:08:11+00:00",
+  "stories": [
+    {
+      "id": "5fcf07126c7f378f",
+      "title": "Chinese PV Industry Brief: China hits 1.33 TW of cumulative solar capacity",
+      "description": "In other news, Jiangsu province has unveiled its 2027 renewable energy auction framework, Trina Solar plans to increase its stake in Trina Storage, and China Huaneng has started construction of a 400 MW offshore solar project, while TrendForce has reported further declines in wafer and cell prices.",
+      "url": "https://www.pv-magazine.com/2026/11/27/chinese-pv-industry-brief-china-hits-1-33-tw-of-cumulative-solar-capacity",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-27T11:06:15+00:00"
+    },
+    {
+      "id": "e363a3297476dce9",
+      "title": "EU restrictions on inverters could cut European solar deployment by up to 6%, says Wood Mackenzie",
+      "description": "Wood Mackenzie expects EU funding restrictions on projects using inverters from high-risk suppliers to reduce cumulative solar and energy storage installations across the bloc by 3% between 2027 and 2030. Limited local product availability, rising costs, and supply chain constraints are among the main challenges.",
+      "url": "https://www.pv-magazine.com/2026/11/27/eu-restrictions-on-inverters-could-cut-european-solar-deployment-by-up-to-6-says-wood-mackenzie",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-27T11:18:46+00:00"
+    },
+    {
+      "id": "35562237e1c0b23f",
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "description": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-26T18:00:29+00:00"
+    },
+    {
+      "id": "e2dddde7b7e1bafa",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "description": "The pitch is an unusual combination of privacy promises and AI features.",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival",
+      "source": "Ars Technica",
+      "category": "Opportunities",
+      "published_at": "2026-11-25T20:57:09+00:00",
+      "original_category": "AI & Technology"
+    },
+    {
+      "id": "7aa896c7cb490e59",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-26T16:00:00+00:00"
+    },
+    {
+      "id": "33b3d08d99aeb285",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-26T20:03:54+00:00"
+    },
+    {
+      "id": "77ed0ea9783dbc60",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "description": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-26T19:55:58+00:00"
+    },
+    {
+      "id": "0132d665950843b9",
+      "title": "The food bank helping pet owners with rising bills",
+      "description": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-27T06:11:13+00:00"
+    },
+    {
+      "id": "4e214881cf0495c7",
+      "title": "Researcher-in-the-Loop Evolutionary Discovery of Entanglement-Assisted Quantum Code Families",
+      "description": "arXiv:2610.41183v2 Announce Type: replace Abstract: LLM-guided program evolution can produce mathematical constructions, but validity, generality, and reproducibility require distinct evidence.",
+      "url": "https://arxiv.org/abs/2610.41183",
+      "source": "arXiv AI",
+      "category": "Science & Learning",
+      "published_at": "2026-11-27T05:00:00+00:00"
+    },
+    {
+      "id": "82aac57b6b13ce26",
+      "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+      "description": "The deep sea has long been considered a safe haven for marine life, but new genetic research suggests a hidden biodiversity crisis may be unfolding far beneath the waves. Scientists analyzing more than a decade of genetic data from five species of deep-sea fish and shrimp in the Gulf discovered troubling signs of extinction risk in every species examined.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-27T01:55:42+00:00"
+    },
+    {
+      "id": "ba48efb0130a90dd",
+      "title": "Greenhushing, PV prices, battery prices and the shifting bottleneck",
+      "description": "Greenhushing reflects a shift towards prioritising environmental performance over public sustainability commitments, as declining solar PV and battery costs strengthen the economic case for corporate decarbonisation.",
+      "url": "https://www.pv-magazine.com/2026/11/27/greenhushing-pv-prices-battery-prices-and-the-shifting-bottleneck",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-27T13:45:00+00:00"
+    },
+    {
+      "id": "80a8669b71250680",
+      "title": "For decades, scientists may have misunderstood how brain cells work",
+      "description": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-26T21:36:09+00:00"
+    }
+  ]
+}
