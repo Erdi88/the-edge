@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T13:25:31+00:00",
+  "stories": [
+    {
+      "id": "e1eace7664470121",
+      "title": "Romanian solar and storage: What gets financed and built?",
+      "description": "Romania’s growing solar and storage market offers significant investment opportunities, but ready-to-build status alone does not guarantee bankability. Investors must assess grid connection conditions, outstanding development obligations and revenue assumptions to determine which projects can secure financing and enter operation.",
+      "url": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built",
+      "source": "pv magazine",
+      "category": "Opportunities",
+      "published_at": "2026-11-28T09:30:00+00:00",
+      "original_category": "Energy & Power Markets"
+    },
+    {
+      "id": "15128f5287019e20",
+      "title": "Integrating agrivoltaics with batteries for rural energy and food security in West Africa",
+      "description": "Agrivoltaics offers a sustainable solution to competing land-use demands by integrating solar energy generation and agriculture, enhancing food security, water efficiency and rural livelihoods.",
+      "url": "https://www.pv-magazine.com/2026/11/28/integrating-agrivoltaics-with-batteries-for-rural-energy-and-food-security-in-west-africa",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-28T10:58:00+00:00"
+    },
+    {
+      "id": "8951c911a3c283c1",
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "description": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel.",
+      "url": "https://fleetlayer.ai/",
+      "source": "Hacker News",
+      "category": "AI & Technology",
+      "published_at": "2026-11-28T08:37:09+00:00"
+    },
+    {
+      "id": "78a2de901a3f77aa",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers",
+      "source": "Ars Technica",
+      "category": "AI & Technology",
+      "published_at": "2026-11-25T18:38:29+00:00"
+    },
+    {
+      "id": "51474ac5f3935430",
+      "title": "Is Alice Huang a spy or not?",
+      "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-26T20:00:00+00:00"
+    },
+    {
+      "id": "969298e6b06f5406",
+      "title": "X finally gets parental controls after 20 years",
+      "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
+      "source": "TechCrunch",
+      "category": "Business & Startups",
+      "published_at": "2026-11-26T19:31:50+00:00"
+    },
+    {
+      "id": "7642d2da0cab337b",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-28T13:02:39+00:00"
+    },
+    {
+      "id": "44dd812133c98e9a",
+      "title": "Christmas market 'absolutely vital' for businesses",
+      "description": "The Truro market began on 21 November.",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-28T12:09:09+00:00"
+    },
+    {
+      "id": "2f60d24207b6324a",
+      "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+      "description": "Virginia Tech scientists have discovered how to transform one of the world's hardest-to-recycle plastics into a valuable ingredient for high-performance engine oil. Their innovative process converts discarded PVC into a useful lubricant material in just three hours.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-27T09:52:24+00:00"
+    },
+    {
+      "id": "f0b4551a4162361d",
+      "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+      "description": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later.",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+      "source": "ScienceDaily",
+      "category": "Science & Learning",
+      "published_at": "2026-11-27T03:56:06+00:00"
+    },
+    {
+      "id": "e8c5f38e11ddbb22",
+      "title": "Chinese inverter maker bundles DC-coupled storage for commercial sites",
+      "description": "GoodWe now links up to four liquid-cooled 261 kWh battery cabinets to a hybrid inverter and static transfer switch in a DC-coupled system that gives commercial and industrial (C&I) sites just over 1 MWh of storage.",
+      "url": "https://www.pv-magazine.com/2026/11/28/chinese-inverter-maker-bundles-dc-coupled-storage-for-commercial-sites",
+      "source": "pv magazine",
+      "category": "Energy & Power Markets",
+      "published_at": "2026-11-28T08:50:00+00:00"
+    },
+    {
+      "id": "3953d8b93f75f499",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "description": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "Finance & Economics",
+      "published_at": "2026-11-28T11:35:34+00:00"
+    }
+  ]
+}
